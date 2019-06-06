@@ -1,21 +1,14 @@
-﻿using System;
-using FuzzyLogic.Data;
-using FuzzyLogic.Interfaces;
-
-namespace FuzzyLogic.Operations
+﻿namespace FuzzyLogic.Operations
 {
-    public class AlphaCut : IMembershipFunction
+    public class AlphaCut : FuzzySetOperation
     {
-        public AlphaCut(IMembershipFunction source, double alpha)
+        public double Alpha { get; }
+
+        public AlphaCut(FuzzySet set, double alpha) : base(set)
         {
-            Source = source ?? throw new ArgumentNullException(nameof(source));
             Alpha = alpha;
         }
 
-        public IMembershipFunction Source { get; }
-        public double Alpha { get; }
-
-        public double GetMembershipDegree(double columnValue) => Source.GetMembershipDegree(columnValue) > Alpha ? 1d : 0d;
-
+        public override double Perform(double value) => Set.MembershipFunction.GetMembershipDegree(value) > Alpha ? 1d : 0d;
     }
 }

@@ -1,0 +1,32 @@
+QUANTIFIERS
+#
+oko³o 3000:abs:tri(2000,3000,4000)
+#oko³o 4000:abs:tri(3000,4000,5000)
+#oko³o 5000:abs:tri(4000,5000,6000)
+#oko³o 6000:abs:tri(5000,6000,7000)
+#oko³o 7000:abs:tri(6000,7000,8000)
+#oko³o 8000:abs:tri(7000,8000,9000)
+#oko³o 9000:abs:tri(8000,9000,10000)
+#oko³o 10000:abs:tri(9000,10000,11000)
+#oko³o 11000:abs:tri(10000,11000,12000)
+#ko³o 12000:abs:tri(11000,12000,13000)
+#ko³o 13000:abs:tri(12000,13000,14000)
+#oko³o 14000:abs:tri(13000,14000,15000)
+#oko³o 15000:abs:tri(14000,15000,16000)
+
+
+#prawie wszyscy:rel:trap:0.8:0.9:0.91:0.95
+#ponad po³owa:rel:trap:0.5:0.6:1:1
+#prawie 5000:abs:trap:4300:4900:4999:4999
+#prawie 12000:abs:tri:10000:11500:12000
+#random ilosc:abs:tri:0:9000:18000
+QUALIFIERS
+#
+#o ma³ej:SprintSpeed:trap(0,0,20,40)
+SUMMARIZERS and
+#
+ponadprzeciêtny:SprintSpeed:trap(50,60,100,100)
+duza:Acceleration:trap(75,95,100,100)
+#duza:OverallRating:trap(75:95:100:100)
+#chujowy jest:SlidingTackle:trap(50,60,70,75)
+#no s³abo trochê:Finishing:trap(40,60,70,75)

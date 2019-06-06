@@ -16,7 +16,7 @@ namespace Model
         public String Name { get; set; }
 
         [Name("Overall")]
-        public int OverallRating { get; set; }
+        public double OverallRating { get; set; }
 
         public int Age { get; set; }
 

@@ -8,6 +8,8 @@ using FuzzyLogic;
 using FuzzyLogic.Membership;
 using FuzzyLogic.Summary;
 using CsvHelper;
+using FuzzyLogic.Files;
+using FuzzyLogic.utility;
 using Model;
 
 namespace ConsoleAppTest
@@ -21,8 +23,8 @@ namespace ConsoleAppTest
             {
                 CsvReader csvReader = new CsvReader(textReader);
                 csvReader.Configuration.Delimiter = ",";
-                csvReader.Configuration.MissingFieldFound = (headerNames, index, context) => Console.WriteLine("huj");
-                csvReader.Configuration.BadDataFound = (context) => Console.WriteLine("DJ wielki huj");
+                csvReader.Configuration.MissingFieldFound = null;
+
                 int i = 0;
                 while (csvReader.Read())
                 {
@@ -32,35 +34,31 @@ namespace ConsoleAppTest
                 }
             }
 
+            var (quants, quals, summs, logicalOperation) = FuzzySetParser.ParseFuzzySetFile(players.Count);
 
-            var qunatifier = new Quantifier("około połowa", new TrapezoidalMembershipFunction(0.3, 0.4, 0.6,0.8), QuantifierType.Relative);
-            var qualifier = new Qualifier("słabą mase", "StandingTackle", new TrapezoidalMembershipFunction(0, 0, 20, 40));
-            var summarizer = new Summarizer("słaby wslizg", "SlidingTackle", new TrapezoidalMembershipFunction(0, 0, 20, 40) );
+//            var summaries = SummaryGenerator.GetFirstTypeSummaries(quants, summs, players, logicalOperation);
+            var summaries = SummaryGenerator.GetSecondTypeSummaries(quants, summs, players, quals, logicalOperation);
+
+            var seld = summaries.Select(sum => (sum, new QualityMeasures().CalculateAll(sum)))
+                .Where(t1 => t1.Item2.T1 > 0.1);
+
+            foreach (var (linguisticSummary, measuresValues) in seld)
+            {
+                Console.WriteLine($"{linguisticSummary.GenerateSummarization()}: {measuresValues.T1:F2}, {measuresValues.T2:F2}, {measuresValues.T6:F2}");
+            }
+
+
+            var qunatifier = new Quantifier("około 5000", new TriangularMembershipFunction(3000, 4000, 5000), QuantifierType.Absolute, 0, players.Count);
+//            var qualifier = new Qualifier("słabą mase", "StandingTackle", new TrapezoidalMembershipFunction(70, 80, 90, 100), 0, 100);
+            var summarizer = new Summarizer("słaby wslizg", "SlidingTackle", new TrapezoidalMembershipFunction(60, 70, 75, 90), 0, 100 );
             
 
-            var summary = new LinguisticSummary(qunatifier, qualifier, summarizer, players, true);
+            var summary = new LinguisticSummary(qunatifier, null, new List<Summarizer>(){ summarizer }, players);
             var strsum = summary.GenerateSummarization();
 
-            var t1 = new Measures().CalculateT1(summary);
+            var quality = new QualityMeasures().CalculateAll(summary);
 
-            StringBuilder result = new StringBuilder(qunatifier.Label);
-            result.Append(" days");
 
-            result.Append(" being/having ");
-            result.Append(qualifier.Label);
-            result.Append(" ");
-            result.Append(qualifier.Column);
-
-            
-
-            result.Append(" are/have ");
-            result.Append(summarizer.Label);
-            result.Append(" ");
-            result.Append(summarizer.Column);
-
-            Console.WriteLine(result);
-            Console.WriteLine(strsum);
-            Console.WriteLine();
         }
     }
 }

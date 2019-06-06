@@ -1,20 +1,15 @@
 ﻿using System;
-using FuzzyLogic.Data;
-using FuzzyLogic.Interfaces;
 
 namespace FuzzyLogic.Operations
 {
-    public class Kernel : IMembershipFunction
+    public class Kernel : FuzzySetOperation
     {
-        public Kernel(IMembershipFunction source)
+        public Kernel(FuzzySet set) : base(set)
         {
-            Source = source ?? throw new ArgumentNullException(nameof(source));
+
         }
 
-        public IMembershipFunction Source { get; }
-
-        public double GetMembershipDegree(double columnValue)
-            => Math.Abs(Source.GetMembershipDegree(columnValue) - 1d) < Constants.DOUBLE_COMPARISON_TOLERANCE ? 1d : 0d; 
-
+        public override double Perform(double value)
+            => Set.MembershipFunction.GetMembershipDegree(value) > 1d ? 1d : 0d;
     }
 }

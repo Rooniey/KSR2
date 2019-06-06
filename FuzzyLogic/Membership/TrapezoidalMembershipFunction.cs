@@ -1,4 +1,5 @@
-﻿using FuzzyLogic.Data;
+﻿using System;
+using System.Globalization;
 using FuzzyLogic.Interfaces;
 
 namespace FuzzyLogic.Membership
@@ -16,6 +17,14 @@ namespace FuzzyLogic.Membership
             _b = b;
             _c = c;
             _d = d;
+        }
+
+        public TrapezoidalMembershipFunction(string a, string b, string c, string d)
+        {
+            _a = Double.Parse(a, CultureInfo.InvariantCulture);
+            _b = Double.Parse(b,CultureInfo.InvariantCulture);
+            _c = Double.Parse(c,CultureInfo.InvariantCulture);
+            _d = Double.Parse(d, CultureInfo.InvariantCulture);
         }
 
         public double GetMembershipDegree(double columnValue)
@@ -38,5 +47,8 @@ namespace FuzzyLogic.Membership
                 return 0d;
             }
         }
+
+        public double Cardinality => (Math.Abs(_a - _d) + Math.Abs(_c - _b)) / 2d;
+        public double Support => Math.Abs(_d - _a);
     }
 }

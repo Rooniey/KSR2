@@ -1,18 +1,14 @@
-﻿using FuzzyLogic.Data;
-using FuzzyLogic.Interfaces;
-
-namespace FuzzyLogic.Operations
+﻿namespace FuzzyLogic.Operations
 {
-    public class Support : IMembershipFunction
+    public class Support : FuzzySetOperation
     {
-        public IMembershipFunction Source { get; }
 
-        public Support(IMembershipFunction source)
+        public Support(FuzzySet set) : base(set)
         {
-            Source = source;
+
         }
 
-        public double GetMembershipDegree(double value) => Source.GetMembershipDegree(value) > 0d ? 1d : 0d; 
-
+        public override double Perform(double value) => Set.MembershipFunction.GetMembershipDegree(value) > 0d ? 1d : 0d;
+        
     }
 }

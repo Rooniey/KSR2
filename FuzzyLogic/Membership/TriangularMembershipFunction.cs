@@ -1,5 +1,5 @@
 ﻿using System;
-using FuzzyLogic.Data;
+using System.Globalization;
 using FuzzyLogic.Interfaces;
 
 namespace FuzzyLogic.Membership
@@ -11,6 +11,13 @@ namespace FuzzyLogic.Membership
             _a = a;
             _b = b;
             _c = c;
+        }
+
+        public TriangularMembershipFunction(string a, string b, string c)
+        {
+            _a = Double.Parse(a, CultureInfo.InvariantCulture);
+            _b = Double.Parse(b, CultureInfo.InvariantCulture);
+            _c = Double.Parse(c, CultureInfo.InvariantCulture);
         }
 
         private readonly double _a;
@@ -37,5 +44,8 @@ namespace FuzzyLogic.Membership
                 return 0d;
             }
         }
+
+        public double Cardinality => Math.Abs(_c - _a) / 2d;
+        public double Support => Math.Abs(_c - _a);
     }
 }

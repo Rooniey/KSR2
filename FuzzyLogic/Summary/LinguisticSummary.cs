@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using Model;
 
 namespace FuzzyLogic.Summary
@@ -11,18 +9,17 @@ namespace FuzzyLogic.Summary
     {
         public Quantifier Quantifier { get; set; }
         public Qualifier Qualifier { get; set; }
-        public Summarizer Summarizer { get; set; }
-        
-        public List<Player> Data { get; set; }
-        public bool IsAbsolute { get; set; }
+        public List<Summarizer> Summarizers { get; set; }
+        public LogicalOperation LogicalOperationSummarizer { get; set; }
 
-        public LinguisticSummary(Quantifier quantifier, Qualifier qualifier, Summarizer summarizer, List<Player> data, bool isAbsolute = true)
+        public List<Player> Data { get; set; }
+
+        public LinguisticSummary(Quantifier quantifier, Qualifier qualifier, List<Summarizer> summarizers, List<Player> data)
         {
             Quantifier = quantifier;
             Qualifier = qualifier;
-            Summarizer = summarizer;
+            Summarizers = summarizers;
             Data = data;
-            IsAbsolute = isAbsolute;
         }
 
         public string GenerateSummarization()
@@ -31,17 +28,40 @@ namespace FuzzyLogic.Summary
             result.Append($" players");
 
 
-            result.Append(" being/having ");
-            result.Append(Qualifier.Label);
-            result.Append(" ");
-            result.Append(Qualifier.Column);
+            
+
+            if (Qualifier != null)
+            {
+                result.Append(" being/having ");
+                result.Append(Qualifier.Label);
+                result.Append(" ");
+                result.Append(Qualifier.Column);
+            }
+            
 
             result.Append(" are/have ");
-            result.Append(Summarizer.Label);
+            result.Append(Summarizers[0].Label);
             result.Append(" ");
-            result.Append(Summarizer.Column);
+            result.Append(Summarizers[0].Column);
+
+            bool isAnd = LogicalOperationSummarizer == LogicalOperation.And;
+
+            foreach (var summarizer in Summarizers.Skip(1))
+            {
+                result.Append($" {(isAnd ? "and" : "or")} ");
+                result.Append(summarizer.Label);
+                result.Append(" ");
+                result.Append(summarizer.Column);
+            }
 
             return result.ToString();
         }
     }
+
+    public enum LogicalOperation
+    {
+        And, Or
+    }
+
+    
 }

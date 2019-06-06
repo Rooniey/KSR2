@@ -42,23 +42,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
-    <Compile Include="Data\ColumnValue.cs" />
+    <Compile Include="Exceptions\UnknownFuzzySetsOperationException.cs" />
+    <Compile Include="Files\FuzzySetParser.cs" />
     <Compile Include="FuzzySet.cs" />
     <Compile Include="Interfaces\IMembershipFunction.cs" />
-    <Compile Include="Membership\DiscreteMembershipFunction.cs" />
     <Compile Include="Membership\TrapezoidalMembershipFunction.cs" />
     <Compile Include="Membership\TriangularMembershipFunction.cs" />
     <Compile Include="Operations\AlphaCut.cs" />
+    <Compile Include="Operations\TwoFuzzySetOperation.cs" />
     <Compile Include="Operations\Complement.cs" />
+    <Compile Include="Operations\FuzzySetOperation.cs" />
     <Compile Include="Operations\Kernel.cs" />
     <Compile Include="Operations\Support.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Summary\LinguisticSummary.cs" />
-    <Compile Include="Summary\LinguisticVariable.cs" />
-    <Compile Include="Summary\Measures.cs" />
+    <Compile Include="Summary\MeasuresValues.cs" />
+    <Compile Include="Summary\QualityMeasures.cs" />
     <Compile Include="Summary\Qualifier.cs" />
     <Compile Include="Summary\Quantifier.cs" />
     <Compile Include="Summary\Summarizer.cs" />
+    <Compile Include="utility\LinqExtensions.cs" />
+    <Compile Include="utility\OperationEnumsMapper.cs" />
+    <Compile Include="utility\SummaryGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Model.csproj">
