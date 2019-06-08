@@ -16,8 +16,17 @@ namespace ConsoleAppTest
 {
     class Program
     {
+        enum SummaryType
+        {
+            First,
+            Second
+        }
+
         static void Main(string[] args)
         {
+            double T1_THRESHOLD = 0.1;
+            SummaryType typeToGenerate = SummaryType.First;
+
             var players = new List<Player>();
             using (var textReader = File.OpenText("../../../raw_data/parsed_fifa.csv"))
             {
@@ -36,29 +45,19 @@ namespace ConsoleAppTest
 
             var (quants, quals, summs, logicalOperation) = FuzzySetParser.ParseFuzzySetFile(players.Count);
 
-//            var summaries = SummaryGenerator.GetFirstTypeSummaries(quants, summs, players, logicalOperation);
-            var summaries = SummaryGenerator.GetSecondTypeSummaries(quants, summs, players, quals, logicalOperation);
-
-            var seld = summaries.Select(sum => (sum, new QualityMeasures().CalculateAll(sum)))
-                .Where(t1 => t1.Item2.T1 > 0.1);
-
-            foreach (var (linguisticSummary, measuresValues) in seld)
+            List<LinguisticSummary> summaries;
+            if (typeToGenerate == SummaryType.First)
             {
-                Console.WriteLine($"{linguisticSummary.GenerateSummarization()}: {measuresValues.T1:F2}, {measuresValues.T2:F2}, {measuresValues.T6:F2}");
+                summaries = SummaryGenerator.GetFirstTypeSummaries(quants, summs, players, logicalOperation);
+            }
+            else
+            {
+                summaries = SummaryGenerator.GetSecondTypeSummaries(quants, summs, players, quals, logicalOperation);
             }
 
-
-            var qunatifier = new Quantifier("około 5000", new TriangularMembershipFunction(3000, 4000, 5000), QuantifierType.Absolute, 0, players.Count);
-//            var qualifier = new Qualifier("słabą mase", "StandingTackle", new TrapezoidalMembershipFunction(70, 80, 90, 100), 0, 100);
-            var summarizer = new Summarizer("słaby wslizg", "SlidingTackle", new TrapezoidalMembershipFunction(60, 70, 75, 90), 0, 100 );
-            
-
-            var summary = new LinguisticSummary(qunatifier, null, new List<Summarizer>(){ summarizer }, players);
-            var strsum = summary.GenerateSummarization();
-
-            var quality = new QualityMeasures().CalculateAll(summary);
-
-
+            SummaryResultWriter.Write(
+                summaries.Select(sum => (sum, new QualityMeasures().CalculateAll(sum)))
+                    .Where(t1 => t1.Item2.T1 > T1_THRESHOLD));
         }
     }
 }

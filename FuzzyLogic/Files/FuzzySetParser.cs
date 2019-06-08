@@ -81,6 +81,14 @@ namespace FuzzyLogic.Files
                         membership = new TriangularMembershipFunction(memParams[0], memParams[1], memParams[2]);
                     }
 
+                    int xmin = 0;
+                    int xmax = 100;
+                    if (input.Length >= 5)
+                    {
+                        xmin = Int32.Parse(input[3]);
+                        xmax = Int32.Parse(input[4]);
+                    }
+
                     switch (currentParsingMode)
                     {
                         case ParsingMode.Quantifier:
@@ -97,14 +105,14 @@ namespace FuzzyLogic.Files
                                 label,
                                 input[1],
                                 membership,
-                                0, 100));
+                                xmin, xmax));
                             break;
                         case ParsingMode.Summarizer:
                             summarizers.Add(new Summarizer(
                                 label,
                                 input[1],
                                 membership,
-                                0, 100) { });
+                                xmin, xmax));
                             break;
                     }
                 }

@@ -1,0 +1,10 @@
+random ilosc players are/have ponadprzeci�tny SprintSpeed T1: [0,43]  T1-T5: [0,65]  T1-T11: [0,44]
+random ilosc players are/have duza Acceleration T1: [0,15]  T1-T5: [0,58]  T1-T11: [0,41]
+random ilosc players are/have chujowy jest SlidingTackle T1: [0,78]  T1-T5: [0,75]  T1-T11: [0,49]
+random ilosc players are/have no s�abo troch� Finishing T1: [0,85]  T1-T5: [0,74]  T1-T11: [0,49]
+random ilosc players are/have ponadprzeci�tny SprintSpeed or duza Acceleration T1: [0,43]  T1-T5: [0,74]  T1-T11: [0,48]
+random ilosc players are/have ponadprzeci�tny SprintSpeed or duza OverallRating T1: [0,42]  T1-T5: [0,77]  T1-T11: [0,50]
+random ilosc players are/have ponadprzeci�tny SprintSpeed or chujowy jest SlidingTackle T1: [0,28]  T1-T5: [0,69]  T1-T11: [0,46]
+random ilosc players are/have ponadprzeci�tny SprintSpeed or no s�abo troch� Finishing T1: [0,37]  T1-T5: [0,66]  T1-T11: [0,44]
+random ilosc players are/have duza Acceleration or duza OverallRating T1: [0,17]  T1-T5: [0,54]  T1-T11: [0,39]
+random ilosc p
