@@ -11,9 +11,9 @@ namespace FuzzyLogic.Files
     public class SummaryResultWriter
     {
         private const string ResultsFolderPath = "../../../Results";
-        private const string DefaultPath = "results.txt";
+        public const string DefaultPath = "results.txt";
 
-        public static async void Write(IEnumerable<(LinguisticSummary, MeasuresValues)> summariesWithMeasures, string path = DefaultPath)
+        public static void Write(IEnumerable<(LinguisticSummary, MeasuresValues)> summariesWithMeasures, string path = DefaultPath)
         {
             path = $"{ResultsFolderPath}/{path}";
 
@@ -21,7 +21,7 @@ namespace FuzzyLogic.Files
             {
                 foreach (var (linguisticSummary, measures) in summariesWithMeasures)
                 {
-                    await sw.WriteLineAsync(
+                    sw.WriteLine(
                         $"{linguisticSummary.GenerateSummarization()} T1: [{measures.T1:F2}]  T1-T5: [{measures.T1T5:F2}]  T1-T11: [{measures.T1T11:F2}]");
                 }
             }

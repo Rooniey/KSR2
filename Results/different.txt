@@ -1,0 +1,3 @@
+around 3/4 players being/having chujowy jest SlidingTackle are/have ponadprzeci�tny SprintSpeed T1: [0,31]  T1-T5: [0,65]  T1-T11: [0,69]
+around 3/4 players being/having duza Acceleration are/have no s�abo troch� Finishing T1: [0,76]  T1-T5: [0,82]  T1-T11: [0,78]
+okolo bardziej trzy czwarte players being/having duza Acceleration are/have no s�abo troch� Finishing T1: [0,51]  T1-T5: [0,77]  T1-T11: [0,77]

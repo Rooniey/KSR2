@@ -20,7 +20,7 @@ namespace FuzzyLogic.Files
         }
 
         private const string FuzzySetsFolderPath = "../../../FuzzySetFiles";
-        private const string DefaultPath = "fuzzy_sets.sh";
+        public const string DefaultPath = "fuzzy_sets.sh";
 
         public static (List<Quantifier>, List<Qualifier>, List<Summarizer>, LogicalOperation) ParseFuzzySetFile(
             int dataCount,

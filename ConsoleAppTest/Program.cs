@@ -16,16 +16,11 @@ namespace ConsoleAppTest
 {
     class Program
     {
-        enum SummaryType
-        {
-            First,
-            Second
-        }
-
+        
         static void Main(string[] args)
         {
-            double T1_THRESHOLD = 0.1;
-            SummaryType typeToGenerate = SummaryType.First;
+            var (inputFile, outputFile, T1_THRESHOLD, typeToGenerate) = CommandLineParams.Parse(args);
+            Console.WriteLine($"{inputFile} {outputFile} {T1_THRESHOLD} {typeToGenerate}");
 
             var players = new List<Player>();
             using (var textReader = File.OpenText("../../../raw_data/parsed_fifa.csv"))
@@ -43,7 +38,7 @@ namespace ConsoleAppTest
                 }
             }
 
-            var (quants, quals, summs, logicalOperation) = FuzzySetParser.ParseFuzzySetFile(players.Count);
+            var (quants, quals, summs, logicalOperation) = FuzzySetParser.ParseFuzzySetFile(players.Count, inputFile);
 
             List<LinguisticSummary> summaries;
             if (typeToGenerate == SummaryType.First)
@@ -57,7 +52,7 @@ namespace ConsoleAppTest
 
             SummaryResultWriter.Write(
                 summaries.Select(sum => (sum, new QualityMeasures().CalculateAll(sum)))
-                    .Where(t1 => t1.Item2.T1 > T1_THRESHOLD));
+                    .Where(t1 => t1.Item2.T1 > T1_THRESHOLD), outputFile);
         }
     }
 }
