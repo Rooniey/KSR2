@@ -26,8 +26,9 @@ namespace FuzzyLogic.utility
         public static List<LinguisticSummary> GetSecondTypeSummaries(List<Quantifier> quantifiers, List<Summarizer> summarizers, List<Player> data, List<Qualifier> qualifiers, LogicalOperation logicalOperation)
         {
             List<LinguisticSummary> summaries = new List<LinguisticSummary>();
+            List<Quantifier> quans = quantifiers.Where(q => !q.IsAbsolute).ToList();
 
-            foreach (var (quan, summs, players) in GetSummaryQuantifierCombinations(quantifiers, summarizers, data))
+            foreach (var (quan, summs, players) in GetSummaryQuantifierCombinations(quans, summarizers, data))
             {
                 foreach (var qualifier in qualifiers)
                 {
