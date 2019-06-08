@@ -24,8 +24,8 @@ namespace ConsoleAppTest
 
         static void Main(string[] args)
         {
-            double T1_THRESHOLD = 0.1;
-            SummaryType typeToGenerate = SummaryType.First;
+            double T1_THRESHOLD = 0.7;
+            SummaryType typeToGenerate = SummaryType.Second;
 
             var players = new List<Player>();
             using (var textReader = File.OpenText("../../../raw_data/parsed_fifa.csv"))
