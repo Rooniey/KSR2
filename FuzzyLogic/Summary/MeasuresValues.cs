@@ -16,11 +16,10 @@ namespace FuzzyLogic.Summary
         public double T6 { get; set; }
         public double T7 { get; set; }
         public double T8 { get; set; }
-        public double T9 { get; set; }
-        public double T10 { get; set; }
-        public double T11 { get; set; }
+        public double? T9 { get; set; }
+        public double? T10 { get; set; }
+        public double? T11 { get; set; }
 
-        public double T1T5 { get; set; }
-        public double T1T11 { get; set; }
+        public double Average { get; set; }
     }
 }

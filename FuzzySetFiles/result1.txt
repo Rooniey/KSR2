@@ -1,0 +1,30 @@
+almost none players are/have about 80 Overall
+T1=1  T2=0,9  T3=0,08  T4=0  T5=1  T6=0,91  T7=0,94  T8=0,95  Tavg=0,53
+
+almost none players are/have high Dribbling
+T1=1  T2=0,8  T3=0,02  T4=0  T5=1  T6=0,91  T7=0,94  T8=0,83  Tavg=0,5
+
+almost none players are/have about 80 Overall and average Finishing
+T1=1  T2=0,86  T3=0,04  T4=0,01  T5=0,5  T6=0,91  T7=0,94  T8=0,93  Tavg=0,47
+
+almost none players are/have low Finishing and high SprintSpeed
+T1=1  T2=0,8  T3=0,03  T4=0  T5=0,5  T6=0,91  T7=0,94  T8=0,84  Tavg=0,46
+
+almost none players are/have low Finishing and high Acceleration
+T1=1  T2=0,8  T3=0,04  T4=0  T5=0,5  T6=0,91  T7=0,94  T8=0,84  Tavg=0,46
+
+almost none players are/have average Finishing and high SprintSpeed
+T1=1  T2=0,8  T3=0,05  T4=0,03  T5=0,5  T6=0,91  T7=0,94  T8=0,87  Tavg=0,46
+
+almost none players are/have average Finishing and high Acceleration
+T1=1  T2=0,8  T3=0,06  T4=0,03  T5=0,5  T6=0,91  T7=0,94  T8=0,87  Tavg=0,46
+
+almost none players are/have low Finishing and high SprintSpeed and high Acceleration
+T1=1  T2=0,8  T3=0,02  T4=0,02  T5=0,25  T6=0,91  T7=0,94  T8=0,83  Tavg=0,43
+
+almost none players are/have average Finishing and high SprintSpeed and high Acceleration
+T1=1  T2=0,8  T3=0,04  T4=0,04  T5=0,25  T6=0,91  T7=0,94  T8=0,85  Tavg=0,44
+
+almost none players are/have high SprintSpeed and high Acceleration
+T1=0,88  T2=0,8  T3=0,07  T4=0,06  T5=0,5  T6=0,91  T7=0,94  T8=0,83  Tavg=0,45
+

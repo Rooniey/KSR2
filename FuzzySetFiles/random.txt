@@ -1,0 +1,28 @@
+QUANTIFIERS
+about 3000:abs:tri(2000, 3000, 4000)
+about 7000:abs:tri(6000, 7000, 8000)
+about 13000:abs:tri(12000, 13000, 14000)
+about 14000:abs:tri(13000, 14000, 15000)
+about 15000:abs:tri(14000, 15000, 16000)
+about 3/4 of:rel:trap(0,675, 0,725, 0,775, 0,825)
+almost all:rel:trap(0,8, 0,9, 0,91, 0,95)
+almost none:rel:trap(0,01, 0,01, 0,05, 0,1)
+about half:rel:tri(0,4, 0,5, 0,6)
+
+QUALIFIERS
+high:SprintSpeed:trap(50, 60, 100, 100)
+high:Acceleration:trap(75, 95, 100, 100)
+high:Overall:trap(75, 95, 100, 100)
+average:SlidingTackle:trap(50, 60, 70, 75)
+low:Finishing:trap(40, 60, 70, 75)
+
+SUMMARIZERS And
+about 80:Overall:tri(75, 80, 85)
+high:Finishing:trap(80, 85, 100, 100)
+low:Finishing:trap(40, 40, 50, 60)
+average:Finishing:tri(60, 70, 80)
+high:SprintSpeed:trap(80, 85, 100, 100)
+high:Dribbling:trap(80, 85, 100, 100)
+high:Acceleration:trap(80, 85, 100, 100)
+high:Overall:trap(85, 90, 100, 100)
+

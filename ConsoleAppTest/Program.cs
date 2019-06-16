@@ -25,9 +25,10 @@ namespace ConsoleAppTest
         static void Main(string[] args)
         {
             double T1_THRESHOLD = 0.7;
-            SummaryType typeToGenerate = SummaryType.Second;
+            SummaryType typeToGenerate = SummaryType.First;
 
             var players = new List<Player>();
+
             using (var textReader = File.OpenText("../../../raw_data/parsed_fifa.csv"))
             {
                 CsvReader csvReader = new CsvReader(textReader);
@@ -43,6 +44,8 @@ namespace ConsoleAppTest
                 }
             }
 
+            var dbPlayers = PlayerDbContext.ReadData();
+
             var (quants, quals, summs, logicalOperation) = FuzzySetParser.ParseFuzzySetFile(players.Count);
 
             List<LinguisticSummary> summaries;
@@ -57,7 +60,8 @@ namespace ConsoleAppTest
 
             SummaryResultWriter.Write(
                 summaries.Select(sum => (sum, new QualityMeasures().CalculateAll(sum)))
-                    .Where(t1 => t1.Item2.T1 > T1_THRESHOLD));
+                    .Where(t1 => t1.Item2.T1 > T1_THRESHOLD && t1.Item2.Average > 0.6)
+                    .OrderByDescending(t1 => t1.Item2.Average));
         }
     }
 }

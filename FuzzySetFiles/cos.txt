@@ -1,0 +1,57 @@
+about 1000 players are/have about 70 Overall and low LongShots
+T1=0,91  T2=0,69  T3=0,19  T4=0,09  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,46
+
+about 5000 players are/have about 70 Overall
+T1=0,9  T2=0,84  T3=0,41  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,92  Tavg=0,54
+
+about 1000 players are/have low ShortPassing and low Agility
+T1=0,9  T2=0,4  T3=0,23  T4=0,09  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,42
+
+about 1000 players are/have low Dribbling and low Agility
+T1=0,85  T2=0,4  T3=0,28  T4=0,13  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,43
+
+about 2000 players are/have low ShortPassing
+T1=0,84  T2=0,4  T3=0,4  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,47
+
+about 1000 players are/have low Finishing and low LongShots
+T1=0,82  T2=0,61  T3=0,27  T4=0,02  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,44
+
+about 1000 players are/have low Jumping
+T1=0,81  T2=0,4  T3=0,29  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,46
+
+about 1000 players are/have low Finishing and about 70 Overall
+T1=0,79  T2=0,8  T3=0,15  T4=0,02  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,45
+
+about 1000 players are/have low Agility and low LongShots
+T1=0,79  T2=0,4  T3=0,3  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,42
+
+about 2000 players are/have low ShortPassing and low LongShots
+T1=0,71  T2=0,4  T3=0,37  T4=0,1  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,42
+
+about 1000 players are/have about 70 Overall and low Dribbling
+T1=0,67  T2=0,69  T3=0,11  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,43
+
+about 1000 players are/have low Agility
+T1=0,64  T2=0,4  T3=0,33  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,45
+
+about 5000 players are/have low LongShots
+T1=0,61  T2=0,4  T3=0,68  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,48
+
+about 1000 players are/have high Acceleration
+T1=0,59  T2=0,85  T3=0,05  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 3000 players are/have low Dribbling
+T1=0,56  T2=0,4  T3=0,46  T4=0  T5=1  T6=0,94  T7=0,97  T8=0,7  Tavg=0,46
+
+about 4000 players are/have low Finishing
+T1=0,55  T2=0,75  T3=0,42  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,49
+
+about 2000 players are/have low ShortPassing and low Dribbling
+T1=0,55  T2=0,4  T3=0,31  T4=0,13  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,4
+
+about 1000 players are/have high SprintSpeed
+T1=0,54  T2=0,85  T3=0,04  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 1000 players are/have average Finishing and about 70 Overall
+T1=0,52  T2=0,82  T3=0,17  T4=0,06  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,44
+

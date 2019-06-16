@@ -1,0 +1,24 @@
+about 1000 players are/have good Overall
+T1=0,77  T2=0,7  T3=0,26  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,49
+
+about 1000 players are/have high Acceleration
+T1=0,59  T2=0,85  T3=0,05  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 4000 players are/have low Finishing
+T1=0,55  T2=0,75  T3=0,42  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,49
+
+about 1000 players are/have high SprintSpeed
+T1=0,54  T2=0,85  T3=0,04  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 5000 players are/have low Finishing
+T1=0,45  T2=0,75  T3=0,42  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,48
+
+about 2000 players are/have average Finishing
+T1=0,41  T2=0,8  T3=0,26  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,9  Tavg=0,47
+
+about 1000 players are/have high SprintSpeed and high Acceleration
+T1=0,36  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,41
+
+about 1000 players are/have average Finishing and good Overall
+T1=0,3  T2=0,76  T3=0,11  T4=0,04  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,4
+

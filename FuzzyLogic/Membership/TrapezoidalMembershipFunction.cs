@@ -6,6 +6,7 @@ namespace FuzzyLogic.Membership
 {
     public class TrapezoidalMembershipFunction : IMembershipFunction
     {
+
         private readonly double _a;
         private readonly double _b;
         private readonly double _c;
@@ -17,6 +18,7 @@ namespace FuzzyLogic.Membership
             _b = b;
             _c = c;
             _d = d;
+            Name = $"trapezoidal({_a.ToString(CultureInfo.InvariantCulture)}, {_b.ToString(CultureInfo.InvariantCulture)}, {_c.ToString(CultureInfo.InvariantCulture)}, {_d.ToString(CultureInfo.InvariantCulture)})";
         }
 
         public TrapezoidalMembershipFunction(string a, string b, string c, string d)
@@ -25,6 +27,7 @@ namespace FuzzyLogic.Membership
             _b = Double.Parse(b,CultureInfo.InvariantCulture);
             _c = Double.Parse(c,CultureInfo.InvariantCulture);
             _d = Double.Parse(d, CultureInfo.InvariantCulture);
+            Name = $"trapezoidal({a}, {b}, {c}, {d})";
         }
 
         public double GetMembershipDegree(double columnValue)
@@ -50,5 +53,7 @@ namespace FuzzyLogic.Membership
 
         public double Cardinality => (Math.Abs(_a - _d) + Math.Abs(_c - _b)) / 2d;
         public double Support => Math.Abs(_d - _a);
+
+        public string Name { get; }
     }
 }

@@ -1,0 +1,861 @@
+about 3/4 of players being/having high SprintSpeed are/have low Finishing or high Acceleration
+T1=1  T2=0,81  T3=0,85  T4=0,83  T5=0,5  T6=0,9  T7=0,93  T8=0,86  Tavg=2,09
+
+about 3/4 of players being/having high Acceleration are/have average Finishing or high SprintSpeed
+T1=1  T2=0,83  T3=0,82  T4=0,81  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=2,09
+
+about 3/4 of players being/having high SprintSpeed are/have average Finishing or high Acceleration
+T1=1  T2=0,83  T3=0,84  T4=0,82  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=2,1
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or low Finishing or high SprintSpeed
+T1=1  T2=0,88  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,92  Tavg=1,94
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or low Finishing or high Acceleration
+T1=1  T2=0,88  T3=0,86  T4=0,86  T5=0,25  T6=0,9  T7=0,93  T8=0,92  Tavg=1,94
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or average Finishing or high SprintSpeed
+T1=1  T2=0,89  T3=0,83  T4=0,83  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,94
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or average Finishing or high Acceleration
+T1=1  T2=0,89  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,94
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or low Finishing or high SprintSpeed
+T1=1  T2=0,82  T3=0,82  T4=0,82  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or low Finishing or high Acceleration
+T1=1  T2=0,82  T3=0,85  T4=0,85  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or average Finishing or high SprintSpeed
+T1=1  T2=0,83  T3=0,83  T4=0,83  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or average Finishing or high Acceleration
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have low Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,82  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have low Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,82  T3=0,83  T4=0,83  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have low Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,82  T3=0,85  T4=0,85  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have low Finishing or high Acceleration or high Overall
+T1=1  T2=0,82  T3=0,85  T4=0,85  T5=0,25  T6=0,9  T7=0,93  T8=0,87  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have average Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,83  T3=0,83  T4=0,83  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have average Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,83  T3=0,83  T4=0,83  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have average Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high SprintSpeed are/have average Finishing or high Acceleration or high Overall
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,93
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or low Finishing or high SprintSpeed
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or low Finishing or high Acceleration
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or average Finishing or high SprintSpeed
+T1=1  T2=0,88  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or average Finishing or high Acceleration
+T1=1  T2=0,88  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or low Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or low Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or low Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or low Finishing or high Acceleration or high Overall
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,13  T6=0,9  T7=0,93  T8=0,91  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or average Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,88  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or average Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,88  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or average Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,88  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or average Finishing or high Acceleration or high Overall
+T1=1  T2=0,88  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,84
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or low Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or low Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,83  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or low Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,83  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or low Finishing or high Acceleration or high Overall
+T1=1  T2=0,83  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,84  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or average Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,84  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or average Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,84  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or average Finishing or high Acceleration or high Overall
+T1=1  T2=0,84  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have low Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have low Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,83  T3=0,85  T4=0,85  T5=0,13  T6=0,9  T7=0,93  T8=0,87  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,84  T3=0,83  T4=0,83  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high SprintSpeed are/have average Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,84  T3=0,84  T4=0,84  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,83
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or low Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or low Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or low Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or low Finishing or high Acceleration or high Overall
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or average Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,87  T3=0,84  T4=0,84  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or average Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,87  T3=0,83  T4=0,83  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or average Finishing or high Acceleration or high Overall
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or low Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or low Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,87  T3=0,86  T4=0,86  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,87  T3=0,84  T4=0,84  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or low Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,83  T3=0,84  T4=0,84  T5=0,06  T6=0,9  T7=0,93  T8=0,87  Tavg=1,76
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or low Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,83  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,87  Tavg=1,76
+
+about 3/4 of players being/having high Acceleration are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,84  T3=0,83  T4=0,83  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,76
+
+about 3/4 of players being/having high SprintSpeed are/have high Finishing or average Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,84  T3=0,84  T4=0,84  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,76
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or low Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,86  T3=0,85  T4=0,85  T5=0,03  T6=0,9  T7=0,93  T8=0,9  Tavg=1,72
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or low Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,86  T3=0,86  T4=0,86  T5=0,03  T6=0,9  T7=0,93  T8=0,9  Tavg=1,72
+
+about 3/4 of players being/having high Acceleration are/have about 80 Overall or high Finishing or average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,87  T3=0,84  T4=0,84  T5=0,03  T6=0,9  T7=0,93  T8=0,91  Tavg=1,72
+
+almost none players being/having average SlidingTackle are/have about 80 Overall
+T1=1  T2=0,95  T3=0,06  T4=0,03  T5=1  T6=0,9  T7=0,93  T8=0,98  Tavg=2,28
+
+almost none players being/having low Finishing are/have about 80 Overall
+T1=1  T2=0,95  T3=0,02  T4=0,01  T5=1  T6=0,9  T7=0,93  T8=0,98  Tavg=2,13
+
+almost none players being/having high Acceleration are/have high Finishing
+T1=1  T2=0,85  T3=0,02  T4=0,01  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,23
+
+almost none players being/having low Finishing are/have average Finishing
+T1=1  T2=0,8  T3=0,21  T4=0,06  T5=1  T6=0,9  T7=0,93  T8=0,9  Tavg=2,13
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed
+T1=1  T2=0,85  T3=0,03  T4=0,02  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,26
+
+almost none players being/having low Finishing are/have high SprintSpeed
+T1=1  T2=0,85  T3=0,05  T4=0,01  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,11
+
+almost none players being/having high SprintSpeed are/have high Dribbling
+T1=1  T2=0,85  T3=0,05  T4=0,04  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,24
+
+almost none players being/having average SlidingTackle are/have high Acceleration
+T1=1  T2=0,85  T3=0,02  T4=0,02  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,26
+
+almost none players being/having low Finishing are/have high Acceleration
+T1=1  T2=0,85  T3=0,06  T4=0,01  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,11
+
+almost none players being/having high SprintSpeed are/have high Overall
+T1=1  T2=0,85  T3=0,02  T4=0,02  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,23
+
+almost none players being/having high Acceleration are/have high Overall
+T1=1  T2=0,85  T3=0,02  T4=0,02  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,23
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing
+T1=1  T2=0,91  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,99
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing
+T1=1  T2=0,91  T3=0,02  T4=0,02  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,83
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed
+T1=1  T2=0,91  T3=0,07  T4=0,07  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,83
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Dribbling
+T1=1  T2=0,91  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,99
+
+almost none players being/having low Finishing are/have about 80 Overall or high Dribbling
+T1=1  T2=0,91  T3=0,02  T4=0,02  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,83
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Overall
+T1=1  T2=0,91  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,99
+
+almost none players being/having low Finishing are/have about 80 Overall or high Overall
+T1=1  T2=0,91  T3=0,02  T4=0,02  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,83
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,85
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed
+T1=1  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having high SprintSpeed are/have high Finishing or high Dribbling
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,96
+
+almost none players being/having average SlidingTackle are/have high Finishing or high Acceleration
+T1=1  T2=0,85  T3=0,02  T4=0,02  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high Finishing or high Acceleration
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having high SprintSpeed are/have high Finishing or high Overall
+T1=1  T2=0,85  T3=0,02  T4=0,02  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,95
+
+almost none players being/having high Acceleration are/have high Finishing or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,95
+
+almost none players being/having low Finishing are/have average Finishing or high Dribbling
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,85
+
+almost none players being/having low Finishing are/have average Finishing or high Overall
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,85
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Dribbling
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Dribbling
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Acceleration
+T1=1  T2=0,85  T3=0,04  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Acceleration
+T1=1  T2=0,85  T3=0,08  T4=0,07  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having high SprintSpeed are/have high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,96
+
+almost none players being/having average SlidingTackle are/have high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,98
+
+almost none players being/having low Finishing are/have high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,82
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed
+T1=1  T2=0,9  T3=0,07  T4=0,07  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Dribbling
+T1=1  T2=0,9  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,83
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Dribbling
+T1=1  T2=0,9  T3=0,02  T4=0,02  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Overall
+T1=1  T2=0,9  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,83
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Overall
+T1=1  T2=0,9  T3=0,02  T4=0,02  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Dribbling or high Overall
+T1=1  T2=0,9  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,83
+
+almost none players being/having low Finishing are/have about 80 Overall or high Dribbling or high Overall
+T1=1  T2=0,9  T3=0,02  T4=0,02  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,67
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Dribbling
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,69
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Overall
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,69
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Acceleration
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Acceleration
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having high SprintSpeed are/have high Finishing or high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,79
+
+almost none players being/having average SlidingTackle are/have high Finishing or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having low Finishing are/have average Finishing or high Dribbling or high Overall
+T1=1  T2=0,83  T3=0,21  T4=0,21  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,69
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Dribbling or high Overall
+T1=1  T2=0,89  T3=0,06  T4=0,06  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Dribbling or high Overall
+T1=1  T2=0,89  T3=0,02  T4=0,02  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,58
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Dribbling or high Overall
+T1=1  T2=0,84  T3=0,21  T4=0,21  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,61
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,71
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,58
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,71
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,58
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,71
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,58
+
+almost none players being/having average SlidingTackle are/have high Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,03  T4=0,03  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,71
+
+almost none players being/having low Finishing are/have high Finishing or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,06  T4=0,06  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,58
+
+almost none players being/having average SlidingTackle are/have high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,71
+
+almost none players being/having average SlidingTackle are/have high Finishing or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,04  T4=0,04  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,64
+
+almost none players being/having low Finishing are/have high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,58
+
+almost none players being/having low Finishing are/have high Finishing or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=1  T2=0,85  T3=0,08  T4=0,08  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,53
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Dribbling
+T1=1  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling
+T1=1  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or average Finishing or high Dribbling or high Acceleration
+T1=0,99  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Overall
+T1=0,99  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Overall
+T1=0,99  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Dribbling or high Overall
+T1=0,98  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,98  T2=0,88  T3=0,08  T4=0,08  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,53
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,98  T2=0,87  T3=0,85  T4=0,85  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,77
+
+about 3/4 of players being/having high SprintSpeed are/have about 80 Overall or high Finishing or average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,98  T2=0,87  T3=0,85  T4=0,85  T5=0,03  T6=0,9  T7=0,93  T8=0,91  Tavg=1,72
+
+almost none players being/having high Acceleration are/have high Dribbling
+T1=0,97  T2=0,85  T3=0,06  T4=0,06  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,24
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Acceleration
+T1=0,96  T2=0,91  T3=0,08  T4=0,08  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,99
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Acceleration
+T1=0,96  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+about half players being/having high Overall are/have high Finishing or low Finishing or high Acceleration
+T1=0,95  T2=0,82  T3=0,58  T4=0,58  T5=0,25  T6=0,9  T7=0,95  T8=0,87  Tavg=1,88
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or low Finishing or high Acceleration
+T1=0,95  T2=0,87  T3=0,58  T4=0,58  T5=0,13  T6=0,9  T7=0,95  T8=0,91  Tavg=1,79
+
+about half players being/having high Overall are/have high Finishing or low Finishing or high SprintSpeed or high Acceleration
+T1=0,95  T2=0,83  T3=0,58  T4=0,58  T5=0,13  T6=0,9  T7=0,95  T8=0,87  Tavg=1,78
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or low Finishing or high SprintSpeed or high Acceleration
+T1=0,95  T2=0,87  T3=0,58  T4=0,58  T5=0,06  T6=0,9  T7=0,95  T8=0,91  Tavg=1,72
+
+about half players being/having high Overall are/have low Finishing or high SprintSpeed or high Dribbling
+T1=0,95  T2=0,82  T3=0,62  T4=0,62  T5=0,25  T6=0,9  T7=0,95  T8=0,87  Tavg=1,89
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or high SprintSpeed or high Dribbling
+T1=0,95  T2=0,87  T3=0,62  T4=0,62  T5=0,13  T6=0,9  T7=0,95  T8=0,91  Tavg=1,79
+
+about half players being/having high Overall are/have low Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,95  T2=0,83  T3=0,62  T4=0,62  T5=0,13  T6=0,9  T7=0,95  T8=0,87  Tavg=1,79
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,95  T2=0,87  T3=0,62  T4=0,62  T5=0,06  T6=0,9  T7=0,95  T8=0,91  Tavg=1,73
+
+almost none players being/having low Finishing are/have about 80 Overall or high Acceleration
+T1=0,95  T2=0,91  T3=0,08  T4=0,08  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,83
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Acceleration
+T1=0,95  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having low Finishing are/have about 80 Overall or high Dribbling or high Acceleration
+T1=0,94  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,67
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Dribbling or high Acceleration
+T1=0,94  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,58
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Acceleration or high Overall
+T1=0,94  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Acceleration or high Overall
+T1=0,94  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Dribbling or high Acceleration
+T1=0,93  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Dribbling or high Acceleration
+T1=0,93  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having low Finishing are/have about 80 Overall or high Acceleration or high Overall
+T1=0,93  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,67
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Acceleration or high Overall
+T1=0,93  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,58
+
+almost none players being/having high Acceleration are/have high Dribbling or high Overall
+T1=0,93  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,95
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed
+T1=0,93  T2=0,91  T3=0,08  T4=0,08  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,99
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed
+T1=0,93  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+almost none players being/having low Finishing are/have about 80 Overall or high Dribbling or high Acceleration or high Overall
+T1=0,93  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,58
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,93  T2=0,88  T3=0,08  T4=0,08  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,53
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Dribbling or high Acceleration or high Overall
+T1=0,92  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,92  T2=0,88  T3=0,08  T4=0,08  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,65
+
+almost none players being/having high SprintSpeed are/have high Finishing
+T1=0,92  T2=0,85  T3=0,01  T4=0,01  T5=1  T6=0,9  T7=0,93  T8=0,88  Tavg=2,23
+
+about half players being/having high Overall are/have low Finishing or average Finishing or high SprintSpeed or high Acceleration
+T1=0,92  T2=0,82  T3=0,66  T4=0,66  T5=0,13  T6=0,9  T7=0,95  T8=0,88  Tavg=1,79
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or average Finishing or high SprintSpeed or high Acceleration
+T1=0,92  T2=0,86  T3=0,66  T4=0,66  T5=0,06  T6=0,9  T7=0,95  T8=0,91  Tavg=1,73
+
+almost none players being/having high Acceleration are/have high Finishing or high Dribbling
+T1=0,92  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,9  T7=0,93  T8=0,88  Tavg=1,95
+
+almost none players being/having high SprintSpeed are/have about 80 Overall
+T1=0,92  T2=0,95  T3=0,08  T4=0,05  T5=1  T6=0,9  T7=0,93  T8=0,98  Tavg=2,25
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Dribbling
+T1=0,9  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Overall
+T1=0,9  T2=0,9  T3=0,08  T4=0,08  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,82
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling
+T1=0,9  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Overall
+T1=0,9  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having high Acceleration are/have high Finishing or high Dribbling or high Overall
+T1=0,9  T2=0,85  T3=0,07  T4=0,07  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Dribbling or high Overall
+T1=0,89  T2=0,89  T3=0,08  T4=0,08  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,72
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,89  T2=0,88  T3=0,08  T4=0,08  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,65
+
+about 3/4 of players being/having high Acceleration are/have low Finishing or high SprintSpeed
+T1=0,87  T2=0,81  T3=0,82  T4=0,8  T5=0,5  T6=0,9  T7=0,93  T8=0,86  Tavg=2,08
+
+about half players being/having high Overall are/have high Finishing or average Finishing or high SprintSpeed
+T1=0,86  T2=0,83  T3=0,58  T4=0,58  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,88
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or average Finishing or high SprintSpeed
+T1=0,86  T2=0,88  T3=0,58  T4=0,58  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,78
+
+almost none players being/having high Acceleration are/have about 80 Overall
+T1=0,82  T2=0,95  T3=0,08  T4=0,05  T5=1  T6=0,9  T7=0,93  T8=0,98  Tavg=2,24
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Acceleration
+T1=0,8  T2=0,9  T3=0,09  T4=0,09  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,81
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Acceleration
+T1=0,8  T2=0,89  T3=0,09  T4=0,09  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,71
+
+almost none players being/having low Finishing are/have about 80 Overall or average Finishing
+T1=0,77  T2=0,9  T3=0,22  T4=0,21  T5=0,5  T6=0,9  T7=0,93  T8=0,95  Tavg=1,84
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or average Finishing
+T1=0,77  T2=0,89  T3=0,22  T4=0,22  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,69
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,77  T2=0,89  T3=0,09  T4=0,09  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,71
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Acceleration or high Overall
+T1=0,77  T2=0,89  T3=0,09  T4=0,09  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,71
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,77  T2=0,88  T3=0,09  T4=0,09  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,64
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Acceleration or high Overall
+T1=0,77  T2=0,88  T3=0,09  T4=0,09  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,64
+
+almost none players being/having low Finishing are/have about 80 Overall or average Finishing or high Dribbling
+T1=0,77  T2=0,89  T3=0,22  T4=0,22  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or average Finishing or high Dribbling
+T1=0,77  T2=0,88  T3=0,22  T4=0,22  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+about half players being/having high Overall are/have high Finishing or high Dribbling
+T1=0,77  T2=0,85  T3=0,53  T4=0,53  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=2,02
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or high Dribbling
+T1=0,77  T2=0,9  T3=0,53  T4=0,53  T5=0,25  T6=0,9  T7=0,95  T8=0,93  Tavg=1,87
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=0,76  T2=0,88  T3=0,09  T4=0,09  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,64
+
+almost none players being/having average SlidingTackle are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=0,76  T2=0,88  T3=0,09  T4=0,09  T5=0,03  T6=0,9  T7=0,93  T8=0,9  Tavg=1,59
+
+almost none players being/having low Finishing are/have about 80 Overall or average Finishing or high Overall
+T1=0,76  T2=0,89  T3=0,23  T4=0,23  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,68
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or average Finishing or high Overall
+T1=0,76  T2=0,88  T3=0,23  T4=0,23  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+almost none players being/having low Finishing are/have about 80 Overall or average Finishing or high Dribbling or high Overall
+T1=0,75  T2=0,88  T3=0,23  T4=0,23  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,59
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or average Finishing or high Dribbling or high Overall
+T1=0,75  T2=0,87  T3=0,23  T4=0,23  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,54
+
+almost none players being/having average SlidingTackle are/have average Finishing
+T1=0,74  T2=0,8  T3=0,11  T4=0,16  T5=1  T6=0,9  T7=0,93  T8=0,9  Tavg=2,25
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing
+T1=0,74  T2=0,83  T3=0,11  T4=0,11  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,97
+
+almost none players being/having high SprintSpeed are/have about 80 Overall or high Finishing
+T1=0,74  T2=0,91  T3=0,09  T4=0,09  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,95
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Overall
+T1=0,73  T2=0,83  T3=0,11  T4=0,11  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,97
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Overall
+T1=0,73  T2=0,83  T3=0,11  T4=0,11  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,8
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Dribbling
+T1=0,73  T2=0,83  T3=0,11  T4=0,11  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,97
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Dribbling
+T1=0,73  T2=0,83  T3=0,11  T4=0,11  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,8
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Dribbling or high Overall
+T1=0,72  T2=0,83  T3=0,11  T4=0,11  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,8
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Dribbling or high Overall
+T1=0,72  T2=0,84  T3=0,11  T4=0,11  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,7
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Acceleration
+T1=0,71  T2=0,9  T3=0,1  T4=0,1  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,66
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Acceleration
+T1=0,71  T2=0,89  T3=0,1  T4=0,1  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,57
+
+about half players being/having high Overall are/have low Finishing or average Finishing or high Dribbling
+T1=0,7  T2=0,8  T3=0,66  T4=0,66  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,87
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or average Finishing or high Dribbling
+T1=0,7  T2=0,86  T3=0,66  T4=0,66  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,78
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,7  T2=0,89  T3=0,1  T4=0,1  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,57
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,7  T2=0,88  T3=0,1  T4=0,1  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,51
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Acceleration or high Overall
+T1=0,69  T2=0,89  T3=0,1  T4=0,1  T5=0,13  T6=0,9  T7=0,93  T8=0,92  Tavg=1,57
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Acceleration or high Overall
+T1=0,69  T2=0,88  T3=0,1  T4=0,1  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,51
+
+almost none players being/having low Finishing are/have about 80 Overall or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=0,68  T2=0,88  T3=0,1  T4=0,1  T5=0,06  T6=0,9  T7=0,93  T8=0,91  Tavg=1,51
+
+almost none players being/having low Finishing are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Acceleration or high Overall
+T1=0,68  T2=0,88  T3=0,1  T4=0,1  T5=0,03  T6=0,9  T7=0,93  T8=0,9  Tavg=1,47
+
+about half players being/having high Overall are/have low Finishing or high Dribbling or high Acceleration
+T1=0,67  T2=0,82  T3=0,61  T4=0,61  T5=0,25  T6=0,9  T7=0,95  T8=0,87  Tavg=1,86
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or high Dribbling or high Acceleration
+T1=0,67  T2=0,87  T3=0,61  T4=0,61  T5=0,13  T6=0,9  T7=0,95  T8=0,91  Tavg=1,77
+
+almost none players being/having high SprintSpeed are/have about 80 Overall or high Overall
+T1=0,65  T2=0,91  T3=0,1  T4=0,1  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,95
+
+about half players being/having high Overall are/have low Finishing or average Finishing or high Acceleration
+T1=0,64  T2=0,8  T3=0,65  T4=0,64  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,86
+
+about half players being/having high Overall are/have about 80 Overall or low Finishing or average Finishing or high Acceleration
+T1=0,64  T2=0,86  T3=0,65  T4=0,65  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,77
+
+almost none players being/having high SprintSpeed are/have about 80 Overall or high Finishing or high Overall
+T1=0,62  T2=0,9  T3=0,1  T4=0,1  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,77
+
+almost none players being/having high Acceleration are/have about 80 Overall or high Finishing
+T1=0,58  T2=0,91  T3=0,1  T4=0,1  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,94
+
+almost none players being/having low Finishing are/have average Finishing or high SprintSpeed
+T1=0,51  T2=0,83  T3=0,24  T4=0,23  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,81
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high SprintSpeed
+T1=0,51  T2=0,83  T3=0,24  T4=0,24  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,66
+
+almost none players being/having low Finishing are/have average Finishing or high SprintSpeed or high Dribbling
+T1=0,5  T2=0,83  T3=0,24  T4=0,24  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,65
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling
+T1=0,5  T2=0,84  T3=0,24  T4=0,24  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,57
+
+almost none players being/having low Finishing are/have average Finishing or high SprintSpeed or high Overall
+T1=0,49  T2=0,83  T3=0,24  T4=0,24  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,65
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high SprintSpeed or high Overall
+T1=0,49  T2=0,84  T3=0,24  T4=0,24  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,57
+
+almost none players being/having low Finishing are/have average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,48  T2=0,84  T3=0,24  T4=0,24  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,57
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,48  T2=0,84  T3=0,24  T4=0,24  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,51
+
+about half players being/having high Overall are/have high Finishing or high Dribbling or high Acceleration
+T1=0,48  T2=0,85  T3=0,55  T4=0,55  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,83
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or high Dribbling or high Acceleration
+T1=0,48  T2=0,89  T3=0,55  T4=0,55  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,74
+
+almost none players being/having low Finishing are/have average Finishing or high Acceleration
+T1=0,46  T2=0,83  T3=0,24  T4=0,23  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,8
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Acceleration
+T1=0,46  T2=0,83  T3=0,24  T4=0,24  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,65
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Acceleration
+T1=0,45  T2=0,83  T3=0,13  T4=0,12  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,94
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Acceleration
+T1=0,45  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having low Finishing are/have average Finishing or high Dribbling or high Acceleration
+T1=0,45  T2=0,83  T3=0,24  T4=0,24  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,65
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Dribbling or high Acceleration
+T1=0,45  T2=0,84  T3=0,24  T4=0,24  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,56
+
+almost none players being/having high Acceleration are/have about 80 Overall or high Overall
+T1=0,44  T2=0,91  T3=0,11  T4=0,11  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,93
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Acceleration or high Overall
+T1=0,44  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Acceleration or high Overall
+T1=0,44  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,68
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Dribbling or high Acceleration
+T1=0,44  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Dribbling or high Acceleration
+T1=0,44  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,68
+
+almost none players being/having low Finishing are/have average Finishing or high Acceleration or high Overall
+T1=0,44  T2=0,83  T3=0,25  T4=0,25  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,65
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Acceleration or high Overall
+T1=0,44  T2=0,84  T3=0,25  T4=0,25  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,56
+
+almost none players being/having average SlidingTackle are/have average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,43  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,43  T2=0,84  T3=0,13  T4=0,13  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,61
+
+almost none players being/having low Finishing are/have average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,43  T2=0,84  T3=0,25  T4=0,25  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,56
+
+almost none players being/having low Finishing are/have high Finishing or average Finishing or high Dribbling or high Acceleration or high Overall
+T1=0,43  T2=0,84  T3=0,25  T4=0,25  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,5
+
+almost none players being/having average SlidingTackle are/have average Finishing or high SprintSpeed
+T1=0,43  T2=0,83  T3=0,13  T4=0,12  T5=0,5  T6=0,9  T7=0,93  T8=0,89  Tavg=1,94
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high SprintSpeed
+T1=0,43  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have average Finishing or high SprintSpeed or high Dribbling
+T1=0,42  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have average Finishing or high SprintSpeed or high Overall
+T1=0,42  T2=0,83  T3=0,13  T4=0,13  T5=0,25  T6=0,9  T7=0,93  T8=0,88  Tavg=1,78
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling
+T1=0,42  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high SprintSpeed or high Overall
+T1=0,42  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,41  T2=0,84  T3=0,13  T4=0,13  T5=0,13  T6=0,9  T7=0,93  T8=0,88  Tavg=1,67
+
+almost none players being/having average SlidingTackle are/have high Finishing or average Finishing or high SprintSpeed or high Dribbling or high Overall
+T1=0,41  T2=0,84  T3=0,13  T4=0,13  T5=0,06  T6=0,9  T7=0,93  T8=0,88  Tavg=1,61
+
+almost none players being/having high Acceleration are/have about 80 Overall or high Finishing or high Overall
+T1=0,41  T2=0,9  T3=0,11  T4=0,11  T5=0,25  T6=0,9  T7=0,93  T8=0,93  Tavg=1,76
+
+about half players being/having high Overall are/have high Finishing or average Finishing or high Acceleration
+T1=0,39  T2=0,83  T3=0,58  T4=0,58  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,83
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or average Finishing or high Acceleration
+T1=0,39  T2=0,88  T3=0,58  T4=0,58  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,74
+
+about half players being/having high Overall are/have high Finishing or high SprintSpeed or high Dribbling
+T1=0,39  T2=0,85  T3=0,56  T4=0,56  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,83
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling
+T1=0,39  T2=0,89  T3=0,56  T4=0,56  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,73
+
+about half players being/having high Overall are/have high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,39  T2=0,85  T3=0,56  T4=0,56  T5=0,13  T6=0,9  T7=0,95  T8=0,88  Tavg=1,73
+
+about half players being/having high Overall are/have about 80 Overall or high Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,39  T2=0,88  T3=0,56  T4=0,56  T5=0,06  T6=0,9  T7=0,95  T8=0,91  Tavg=1,66
+
+about half players being/having high Overall are/have average Finishing or high SprintSpeed or high Dribbling
+T1=0,39  T2=0,83  T3=0,55  T4=0,55  T5=0,25  T6=0,9  T7=0,95  T8=0,88  Tavg=1,83
+
+about half players being/having high Overall are/have about 80 Overall or average Finishing or high SprintSpeed or high Dribbling
+T1=0,39  T2=0,88  T3=0,55  T4=0,55  T5=0,13  T6=0,9  T7=0,95  T8=0,92  Tavg=1,73
+
+about half players being/having high Overall are/have average Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,39  T2=0,84  T3=0,55  T4=0,55  T5=0,13  T6=0,9  T7=0,95  T8=0,88  Tavg=1,72
+
+about half players being/having high Overall are/have about 80 Overall or average Finishing or high SprintSpeed or high Dribbling or high Acceleration
+T1=0,39  T2=0,87  T3=0,55  T4=0,55  T5=0,06  T6=0,9  T7=0,95  T8=0,91  Tavg=1,66
+
+almost none players being/having high SprintSpeed are/have about 80 Overall or high Dribbling
+T1=0,32  T2=0,91  T3=0,12  T4=0,12  T5=0,5  T6=0,9  T7=0,93  T8=0,94  Tavg=1,92
+

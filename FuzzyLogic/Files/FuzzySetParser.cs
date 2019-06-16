@@ -19,14 +19,14 @@ namespace FuzzyLogic.Files
             Summarizer
         }
 
-        private const string FuzzySetsFolderPath = "../../../FuzzySetFiles";
-        private const string DefaultPath = "fuzzy_sets.sh";
+        //private const string FuzzySetsFolderPath = "../../../FuzzySetFiles";
+        private const string DefaultPath = "../../../FuzzySetFiles/fuzzy_sets.sh";
 
         public static (List<Quantifier>, List<Qualifier>, List<Summarizer>, LogicalOperation) ParseFuzzySetFile(
             int dataCount,
             string path = DefaultPath)
         {
-            path = $"{FuzzySetsFolderPath}/{path}";
+            //path = $"{FuzzySetsFolderPath}/{path}";
 
             var quantifiers = new List<Quantifier>();
             var qualifiers = new List<Qualifier>();
@@ -119,6 +119,47 @@ namespace FuzzyLogic.Files
             }
 
             return (quantifiers, qualifiers, summarizers, currentSummarizersOperation);
+        }
+
+        public static void SaveFuzzySetsToFile(
+            List<Quantifier> quants, 
+            List<Qualifier> quals,
+            List<Summarizer> summs, 
+            LogicalOperation op,
+            string dest)
+        {
+            using(var fs = new StreamWriter(dest))
+            {
+                fs.WriteLine("QUANTIFIERS");
+                foreach(var quan in quants)
+                {
+                    fs.WriteLine($"{quan.Label}:{(quan.IsAbsolute ? "abs" : "rel")}:{GetMembershipString(quan.MembershipFunction)}");
+                }
+                fs.WriteLine();
+
+
+                fs.WriteLine("QUALIFIERS");
+                foreach (var qual in quals)
+                {
+                    fs.WriteLine($"{qual.Label}:{qual.Column}:{GetMembershipString(qual.MembershipFunction)}");
+                }
+                fs.WriteLine();
+
+                fs.WriteLine($"SUMMARIZERS {op.ToString()}");
+                foreach (var summ in summs)
+                {
+                    fs.WriteLine($"{summ.Label}:{summ.Column}:{GetMembershipString(summ.MembershipFunction)}");
+                }
+                fs.WriteLine();
+            }
+        }
+
+        public static string GetMembershipString(IMembershipFunction memFun)
+        {
+            var memFunName = memFun.Name;
+            memFunName = memFunName.Replace("triangular", "tri");
+            memFunName = memFunName.Replace("trapezoidal", "trap");
+            return memFunName;
         }
     }
 }

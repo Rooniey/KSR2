@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using FuzzyLogic.Operations;
 using FuzzyLogic.utility;
-using Microsoft.Win32;
 
 namespace FuzzyLogic.Summary
 {
@@ -11,9 +10,6 @@ namespace FuzzyLogic.Summary
     {
         private List<double> _summarizerMemberships = new List<double>(); 
         private List<double> _qualifierMemberships = new List<double>();
-
-
-
 
         public MeasuresValues CalculateAll(LinguisticSummary summary)
         {
@@ -23,14 +19,18 @@ namespace FuzzyLogic.Summary
             values.T3 = CalculateT3(summary);
             values.T4 = CalculateT4(summary, values.T3);
             values.T5 = CalculateT5(summary);
-            values.T1T5 = CalculateT1T5(values);
             values.T6 = CalculateT6(summary);
             values.T7 = CalculateT7(summary);
             values.T8 = CalculateT8(summary);
-            values.T9 = CalculateT9(summary);
-            values.T10 = CalculateT10(summary);
-            values.T11 = CalculateT11();
-            values.T1T11 = CalculateT1T11(values);
+
+            if (summary.Qualifier != null)
+            {
+                values.T9 = CalculateT9(summary);
+                values.T10 = CalculateT10(summary);
+                //values.T11 = CalculateT11();
+            }
+
+            values.Average = CalculateAverage(values, summary.Qualifier != null);
             return values;
         }
 
@@ -51,9 +51,14 @@ namespace FuzzyLogic.Summary
             }
 
             double r = sumS;
-            return summary.Quantifier.IsAbsolute
+            var res = summary.Quantifier.IsAbsolute
                 ? summary.Quantifier.CalculateMembership(r)
                 : summary.Quantifier.CalculateMembership(r / summary.Data.Count);
+            if (Math.Abs(res -1d) < 0.01)
+            {
+                Console.WriteLine("LOL");
+            }
+            return res;
         }
 
         private double CalculateT1WithQualifier(LinguisticSummary summary)
@@ -127,9 +132,6 @@ namespace FuzzyLogic.Summary
             return 2 * Math.Pow(1.0 / 2.0, summarization.Summarizers.Count);
         }
 
-        private double CalculateT1T5(MeasuresValues values)
-            => 0.2 * values.T1 + 0.2 * values.T2 + 0.2 * values.T3 + 0.2 * values.T4 + 0.2 * values.T2 + 0.2 * values.T5;
-
         private double CalculateT6(LinguisticSummary summarization)
         {
             var cardXQ = 1d;
@@ -183,21 +185,26 @@ namespace FuzzyLogic.Summary
 
         private double CalculateT11() => 2 * Math.Pow(1.0 / 2.0, 1);
 
-        private double CalculateT1T11(MeasuresValues values)
+        private double CalculateAverage(MeasuresValues values, bool withQualifier)
         {
-            return (
-                1 / 11d * values.T1 +
-                1 / 11d * values.T2 +
-                1 / 11d * values.T3 +
-                1 / 11d * values.T4 +
-                1 / 11d * values.T5 +
-                1 / 11d * values.T6 +
-                1 / 11d * values.T7 +
-                1 / 11d * values.T8 +
-                1 / 11d * values.T9 +
-                1 / 11d * values.T10 +
-                1 / 11d * values.T11
-            );
+            var w = 1 / 10d;
+            var sum = 
+                w * values.T1 + 
+                w * values.T2 + 
+                w * values.T3 + 
+                w * values.T4 + 
+                w * values.T5 + 
+                w * values.T6 + 
+                w * values.T7 +
+                w * values.T8;
+
+            if (withQualifier)
+                sum +=
+                    values.T9.Value +
+                    values.T10.Value;
+                    //values.T11.Value;
+
+            return sum;
         }
 
     }

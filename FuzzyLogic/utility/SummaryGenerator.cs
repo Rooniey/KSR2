@@ -43,7 +43,7 @@ namespace FuzzyLogic.utility
         {
             foreach (var quantifier in quantifiers)
             {
-                for (int i = 1; i <= summarizers.Count(); i++)
+                for (int i = 1; i <= 2; i++)
                 {
                     var indexLists = Enumerable.Range(0, summarizers.Count).GetKCombs(i);
 

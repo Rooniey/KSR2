@@ -10,16 +10,16 @@ namespace Model
 {
     public class Player
     {
-        [Name("ID")]
-        public int Id { get; set; }
+        //[Name("ID")]
+        public int ID { get; set; }
 
         public string Name { get; set; }
 
-        [Name("Overall")]
-        public double OverallRating { get; set; }
+        //[Name("Overall")]
+        public double Overall { get; set; }
 
-        [Name("Potential")]
-        public double PotentialRating { get; set; }
+        //[Name("Potential")]
+        public double Potential { get; set; }
 
         public double HeadingAccuracy { get; set; }
         public double ShortPassing { get; set; }

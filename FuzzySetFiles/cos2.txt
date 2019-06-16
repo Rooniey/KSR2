@@ -1,0 +1,1890 @@
+about 6000 players are/have about 80 Overall or average Potential
+T1=1  T2=0,89  T3=0,74  T4=0,72  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,6
+
+about 6000 players are/have high Finishing or average HeadingAccuracy
+T1=1  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 7000 players are/have high SprintSpeed or average Dribbling
+T1=1  T2=0,81  T3=0,66  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about 7000 players are/have low Finishing or low Dribbling
+T1=0,99  T2=0,61  T3=0,76  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,55
+
+about 7000 players are/have about 70 Overall or low Dribbling
+T1=0,99  T2=0,69  T3=0,75  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,56
+
+about 10000 players are/have low LongShots or average ShortPassing
+T1=0,99  T2=0,61  T3=0,93  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,56
+
+about 6000 players are/have high Dribbling or average HeadingAccuracy
+T1=0,99  T2=0,81  T3=0,58  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 9000 players are/have high Acceleration or average Reactions
+T1=0,99  T2=0,81  T3=0,83  T4=0,79  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,6
+
+about 8000 players are/have average Dribbling or average FKAccuracy
+T1=0,99  T2=0,75  T3=0,71  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 6000 players are/have high Overall or average HeadingAccuracy
+T1=0,99  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 5000 players are/have about 70 Overall or high Agility
+T1=0,99  T2=0,85  T3=0,42  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,92  Tavg=0,54
+
+about 6000 players are/have average Finishing or about 70 Overall
+T1=0,99  T2=0,82  T3=0,51  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,54
+
+about 3000 players are/have low Dribbling or low Agility
+T1=0,99  T2=0,4  T3=0,51  T4=0,36  T5=0,5  T6=0,94  T7=0,97  T8=0,7  Tavg=0,49
+
+about 1000 players are/have low Jumping or high Agility
+T1=0,98  T2=0,7  T3=0,32  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,5
+
+about 8000 players are/have average Finishing or average Dribbling
+T1=0,98  T2=0,78  T3=0,71  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,57
+
+about 6000 players are/have high LongShots or average HeadingAccuracy
+T1=0,98  T2=0,81  T3=0,58  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have high ShortPassing or average HeadingAccuracy
+T1=0,98  T2=0,81  T3=0,58  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have high Dribbling or average HeadingAccuracy
+T1=0,98  T2=0,81  T3=0,58  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 6000 players are/have average HeadingAccuracy
+T1=0,98  T2=0,75  T3=0,58  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about half players are/have low ShortPassing or average ShortPassing
+T1=0,98  T2=0,61  T3=0,92  T4=0,63  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,57
+
+about 9000 players are/have about 80 Overall or average Reactions
+T1=0,97  T2=0,89  T3=0,84  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,62
+
+about half players are/have average Potential or average HeadingAccuracy
+T1=0,97  T2=0,75  T3=0,88  T4=0,47  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,57
+
+about 3000 players are/have low Dribbling or high Agility
+T1=0,97  T2=0,7  T3=0,5  T4=0,48  T5=0,5  T6=0,94  T7=0,97  T8=0,85  Tavg=0,54
+
+about 6000 players are/have low Jumping or average Agility
+T1=0,97  T2=0,61  T3=0,73  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 2000 players are/have low ShortPassing or high Jumping
+T1=0,97  T2=0,7  T3=0,42  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,52
+
+about 2000 players are/have low ShortPassing or high Agility
+T1=0,97  T2=0,7  T3=0,44  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,52
+
+about 7000 players are/have low Jumping or average Dribbling
+T1=0,96  T2=0,61  T3=0,76  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 10000 players are/have average HeadingAccuracy or average ShortPassing
+T1=0,96  T2=0,75  T3=0,83  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 5000 players are/have about 70 Overall or high Jumping
+T1=0,96  T2=0,85  T3=0,42  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,92  Tavg=0,54
+
+about 6000 players are/have high Jumping or average HeadingAccuracy
+T1=0,95  T2=0,81  T3=0,59  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 8000 players are/have average Curve or average LongPassing
+T1=0,95  T2=0,75  T3=0,68  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 6000 players are/have low Finishing or low ShortPassing
+T1=0,95  T2=0,61  T3=0,71  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,54
+
+about 10000 players are/have average Volleys or average Reactions
+T1=0,95  T2=0,75  T3=0,87  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 5000 players are/have high Dribbling or about 70 Overall
+T1=0,95  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 8000 players are/have low LongShots or average Volleys
+T1=0,95  T2=0,61  T3=0,91  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,57
+
+about 9000 players are/have high SprintSpeed or average Reactions
+T1=0,95  T2=0,81  T3=0,83  T4=0,79  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,6
+
+about 6000 players are/have high SprintSpeed or average Agility
+T1=0,95  T2=0,81  T3=0,62  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 1000 players are/have low Jumping or high Jumping
+T1=0,95  T2=0,7  T3=0,32  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,5
+
+about 7000 players are/have about 80 Overall or average Dribbling
+T1=0,95  T2=0,89  T3=0,66  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,58
+
+about 2000 players are/have high Acceleration or low Agility
+T1=0,95  T2=0,7  T3=0,38  T4=0,37  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 3000 players are/have average Finishing or high Acceleration
+T1=0,95  T2=0,83  T3=0,29  T4=0,27  T5=0,5  T6=0,94  T7=0,97  T8=0,89  Tavg=0,51
+
+about 7000 players are/have high Acceleration or average Dribbling
+T1=0,95  T2=0,81  T3=0,66  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about 9000 players are/have average Potential or average HeadingAccuracy
+T1=0,95  T2=0,75  T3=0,88  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about half players are/have low Agility or average Reactions
+T1=0,94  T2=0,61  T3=0,89  T4=0,62  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,57
+
+about 5000 players are/have high Overall or about 70 Overall
+T1=0,94  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 8000 players are/have low Dribbling or average HeadingAccuracy
+T1=0,94  T2=0,61  T3=0,8  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 6000 players are/have high SprintSpeed or average Potential
+T1=0,94  T2=0,81  T3=0,73  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 9000 players are/have low ShortPassing or average ShortPassing
+T1=0,94  T2=0,61  T3=0,92  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,57
+
+about half players are/have about 80 Overall or average Reactions
+T1=0,94  T2=0,89  T3=0,84  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,94  Tavg=0,62
+
+about 9000 players are/have low Jumping or average Reactions
+T1=0,94  T2=0,61  T3=0,88  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,57
+
+about half players are/have average Potential or average Dribbling
+T1=0,94  T2=0,75  T3=0,88  T4=0,42  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,56
+
+about 6000 players are/have low Agility or average Potential
+T1=0,94  T2=0,61  T3=0,78  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 10000 players are/have average Curve or average Reactions
+T1=0,93  T2=0,75  T3=0,87  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about 5000 players are/have low Jumping or low LongShots
+T1=0,93  T2=0,4  T3=0,76  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,52
+
+about 9000 players are/have average ShortPassing or average Volleys
+T1=0,93  T2=0,75  T3=0,78  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 5000 players are/have high Finishing or about 70 Overall
+T1=0,92  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 10000 players are/have low LongShots or average BallControl
+T1=0,92  T2=0,61  T3=0,92  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 9000 players are/have low LongShots or average HeadingAccuracy
+T1=0,92  T2=0,61  T3=0,9  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 5000 players are/have low Finishing or low Jumping
+T1=0,92  T2=0,61  T3=0,58  T4=0,46  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,52
+
+about 5000 players are/have about 70 Overall or high Dribbling
+T1=0,92  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,92  Tavg=0,53
+
+about 8000 players are/have low Finishing or average Agility
+T1=0,92  T2=0,75  T3=0,73  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,55
+
+about 7000 players are/have average Finishing or low LongShots
+T1=0,92  T2=0,65  T3=0,87  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,57
+
+about 1000 players are/have about 80 Overall or high Acceleration
+T1=0,91  T2=0,91  T3=0,08  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,48
+
+about 8000 players are/have average Curve or average Agility
+T1=0,91  T2=0,75  T3=0,75  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 6000 players are/have low Jumping or average Potential
+T1=0,91  T2=0,61  T3=0,78  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 5000 players are/have about 70 Overall or high ShortPassing
+T1=0,91  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,92  Tavg=0,53
+
+about 5000 players are/have about 80 Overall or low LongShots
+T1=0,91  T2=0,83  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,58
+
+about 5000 players are/have high SprintSpeed or low LongShots
+T1=0,91  T2=0,7  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,56
+
+about 5000 players are/have about 70 Overall or high LongShots
+T1=0,91  T2=0,85  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,92  Tavg=0,53
+
+about 4000 players are/have high Acceleration or average Volleys
+T1=0,9  T2=0,81  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 11000 players are/have about 70 Overall or average Reactions
+T1=0,9  T2=0,8  T3=0,88  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,58
+
+about half players are/have high Acceleration or average Reactions
+T1=0,9  T2=0,81  T3=0,83  T4=0,79  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,6
+
+about 9000 players are/have average Volleys or average BallControl
+T1=0,9  T2=0,75  T3=0,77  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 6000 players are/have low ShortPassing or average Curve
+T1=0,9  T2=0,61  T3=0,75  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 5000 players are/have about 70 Overall
+T1=0,9  T2=0,84  T3=0,41  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,92  Tavg=0,54
+
+about 2000 players are/have high SprintSpeed or low Agility
+T1=0,9  T2=0,7  T3=0,38  T4=0,36  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 2000 players are/have high Dribbling or low ShortPassing
+T1=0,9  T2=0,7  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 5000 players are/have about 80 Overall or about 70 Overall
+T1=0,9  T2=0,91  T3=0,41  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,54
+
+about 9000 players are/have average ShortPassing or average Curve
+T1=0,9  T2=0,75  T3=0,77  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 6000 players are/have high Acceleration or average Potential
+T1=0,89  T2=0,81  T3=0,73  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 3000 players are/have average Finishing or high SprintSpeed
+T1=0,89  T2=0,83  T3=0,28  T4=0,27  T5=0,5  T6=0,94  T7=0,97  T8=0,89  Tavg=0,51
+
+about 8000 players are/have average Potential or average Volleys
+T1=0,89  T2=0,75  T3=0,83  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about 6000 players are/have high Agility or average HeadingAccuracy
+T1=0,89  T2=0,81  T3=0,6  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have high Acceleration or average Agility
+T1=0,89  T2=0,81  T3=0,62  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 4000 players are/have average Finishing or low Agility
+T1=0,88  T2=0,65  T3=0,57  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,52
+
+about 4000 players are/have high SprintSpeed or average Volleys
+T1=0,88  T2=0,81  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have low Finishing or average Potential
+T1=0,88  T2=0,75  T3=0,82  T4=0,52  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,56
+
+about 8000 players are/have low ShortPassing or average LongPassing
+T1=0,88  T2=0,61  T3=0,91  T4=0,67  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,56
+
+about 2000 players are/have high Overall or low ShortPassing
+T1=0,88  T2=0,7  T3=0,41  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 7000 players are/have low Agility or average HeadingAccuracy
+T1=0,88  T2=0,61  T3=0,74  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 5000 players are/have low Finishing or high Acceleration
+T1=0,87  T2=0,81  T3=0,45  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,52
+
+about 8000 players are/have average Volleys or average LongPassing
+T1=0,87  T2=0,75  T3=0,7  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about half players are/have low Dribbling or average Dribbling
+T1=0,87  T2=0,61  T3=0,91  T4=0,62  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,56
+
+about 1000 players are/have about 80 Overall or high SprintSpeed
+T1=0,87  T2=0,91  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,47
+
+about 9000 players are/have low Agility or average Reactions
+T1=0,87  T2=0,61  T3=0,89  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,56
+
+about 3000 players are/have low ShortPassing or low Dribbling
+T1=0,87  T2=0,4  T3=0,55  T4=0,36  T5=0,5  T6=0,94  T7=0,97  T8=0,7  Tavg=0,48
+
+about 4000 players are/have low Jumping or average Volleys
+T1=0,87  T2=0,61  T3=0,54  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 5000 players are/have low ShortPassing or average FKAccuracy
+T1=0,87  T2=0,61  T3=0,67  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 2000 players are/have low Agility or low Jumping
+T1=0,87  T2=0,4  T3=0,5  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,47
+
+about half players are/have average ShortPassing or average BallControl
+T1=0,87  T2=0,75  T3=0,78  T4=0,28  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 6000 players are/have average Volleys or average Curve
+T1=0,86  T2=0,75  T3=0,51  T4=0,37  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 9000 players are/have average Dribbling or average Agility
+T1=0,86  T2=0,75  T3=0,78  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 10000 players are/have about 70 Overall or average ShortPassing
+T1=0,86  T2=0,8  T3=0,83  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,57
+
+about 9000 players are/have average Potential or average Dribbling
+T1=0,86  T2=0,75  T3=0,88  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 8000 players are/have low Finishing or about 70 Overall
+T1=0,86  T2=0,8  T3=0,68  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,55
+
+about 1000 players are/have high Dribbling or low Jumping
+T1=0,86  T2=0,7  T3=0,3  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,48
+
+about 2000 players are/have low ShortPassing or high Dribbling
+T1=0,86  T2=0,7  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,51
+
+about 2000 players are/have high Finishing or low ShortPassing
+T1=0,86  T2=0,7  T3=0,4  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 6000 players are/have about 70 Overall or low Agility
+T1=0,86  T2=0,69  T3=0,64  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,53
+
+about 5000 players are/have high Acceleration or low LongShots
+T1=0,86  T2=0,7  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about half players are/have high SprintSpeed or average Reactions
+T1=0,86  T2=0,81  T3=0,83  T4=0,79  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,59
+
+about 7000 players are/have low Finishing or average Volleys
+T1=0,86  T2=0,75  T3=0,58  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,53
+
+about 8000 players are/have low ShortPassing or average Dribbling
+T1=0,85  T2=0,61  T3=0,86  T4=0,61  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 8000 players are/have average Volleys or average Agility
+T1=0,85  T2=0,75  T3=0,73  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 1000 players are/have about 80 Overall or low Jumping
+T1=0,85  T2=0,83  T3=0,32  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,5
+
+about 2000 players are/have low ShortPassing or high ShortPassing
+T1=0,85  T2=0,7  T3=0,41  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,5
+
+about 1000 players are/have high Overall or low Jumping
+T1=0,85  T2=0,7  T3=0,29  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,48
+
+about 2000 players are/have low ShortPassing or high LongShots
+T1=0,84  T2=0,7  T3=0,4  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,5
+
+about 4000 players are/have average Curve
+T1=0,84  T2=0,75  T3=0,41  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about half players are/have low Jumping or average Reactions
+T1=0,84  T2=0,61  T3=0,88  T4=0,64  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,56
+
+about 9000 players are/have average Curve or average BallControl
+T1=0,84  T2=0,75  T3=0,76  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 7000 players are/have low Finishing or average Finishing
+T1=0,84  T2=0,78  T3=0,6  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 3000 players are/have average FKAccuracy
+T1=0,84  T2=0,75  T3=0,3  T4=0  T5=1  T6=0,94  T7=0,97  T8=0,88  Tavg=0,52
+
+about 7000 players are/have low Dribbling or average Curve
+T1=0,84  T2=0,61  T3=0,81  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 5000 players are/have low Finishing or high SprintSpeed
+T1=0,84  T2=0,81  T3=0,44  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,52
+
+about 4000 players are/have high LongShots or average Curve
+T1=0,84  T2=0,81  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 2000 players are/have low ShortPassing
+T1=0,84  T2=0,4  T3=0,4  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,47
+
+about 5000 players are/have low Agility or average Volleys
+T1=0,84  T2=0,61  T3=0,64  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 4000 players are/have high ShortPassing or average Curve
+T1=0,84  T2=0,81  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about half players are/have average ShortPassing or average Volleys
+T1=0,83  T2=0,75  T3=0,78  T4=0,53  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,56
+
+about half players are/have average LongPassing or average Agility
+T1=0,83  T2=0,75  T3=0,8  T4=0,45  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,55
+
+about 8000 players are/have low Finishing or average Dribbling
+T1=0,83  T2=0,75  T3=0,69  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,54
+
+about 8000 players are/have average Finishing or average LongPassing
+T1=0,83  T2=0,78  T3=0,7  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,55
+
+about 9000 players are/have about 70 Overall or average LongPassing
+T1=0,83  T2=0,8  T3=0,71  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 8000 players are/have average Potential or average Curve
+T1=0,83  T2=0,75  T3=0,85  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 1000 players are/have high Finishing or low Jumping
+T1=0,83  T2=0,7  T3=0,29  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,48
+
+about 3000 players are/have high LongShots or average FKAccuracy
+T1=0,83  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,9  Tavg=0,51
+
+about 4000 players are/have high Finishing or average Curve
+T1=0,83  T2=0,81  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 2000 players are/have about 80 Overall or low ShortPassing
+T1=0,83  T2=0,83  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,52
+
+about 3000 players are/have high ShortPassing or average FKAccuracy
+T1=0,83  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,9  Tavg=0,51
+
+about 10000 players are/have average FKAccuracy or average Reactions
+T1=0,83  T2=0,75  T3=0,87  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,57
+
+about 4000 players are/have high Dribbling or average Curve
+T1=0,83  T2=0,81  T3=0,42  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 1000 players are/have low Jumping or high Dribbling
+T1=0,83  T2=0,7  T3=0,3  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,48
+
+about half players are/have low LongShots or average HeadingAccuracy
+T1=0,82  T2=0,61  T3=0,9  T4=0,5  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,54
+
+about 5000 players are/have average Volleys or average FKAccuracy
+T1=0,82  T2=0,75  T3=0,46  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have low Finishing or average Curve
+T1=0,82  T2=0,75  T3=0,59  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,52
+
+about 3000 players are/have high Dribbling or average FKAccuracy
+T1=0,82  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,9  Tavg=0,5
+
+about 10000 players are/have low Dribbling or average Reactions
+T1=0,82  T2=0,61  T3=0,91  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 4000 players are/have about 80 Overall or average Volleys
+T1=0,81  T2=0,89  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,52
+
+about 1000 players are/have low Jumping or high ShortPassing
+T1=0,81  T2=0,7  T3=0,29  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,48
+
+about 3000 players are/have high Finishing or average FKAccuracy
+T1=0,81  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,88  Tavg=0,5
+
+about 6000 players are/have about 80 Overall or average Agility
+T1=0,81  T2=0,89  T3=0,6  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,56
+
+about 1000 players are/have low Jumping or high LongShots
+T1=0,81  T2=0,7  T3=0,29  T4=0,29  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,48
+
+about 8000 players are/have low Jumping or average ShortPassing
+T1=0,81  T2=0,61  T3=0,82  T4=0,61  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 4000 players are/have high Overall or average Curve
+T1=0,81  T2=0,81  T3=0,41  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have average Dribbling or average Curve
+T1=0,81  T2=0,75  T3=0,7  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 9000 players are/have average HeadingAccuracy or average Agility
+T1=0,81  T2=0,75  T3=0,78  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 1000 players are/have low Jumping
+T1=0,81  T2=0,4  T3=0,29  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,46
+
+about 10000 players are/have average HeadingAccuracy or average BallControl
+T1=0,81  T2=0,75  T3=0,82  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 9000 players are/have low Dribbling or average Dribbling
+T1=0,8  T2=0,61  T3=0,91  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about half players are/have average Volleys or average BallControl
+T1=0,8  T2=0,75  T3=0,77  T4=0,53  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,55
+
+about 7000 players are/have low ShortPassing or average Agility
+T1=0,8  T2=0,61  T3=0,77  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 9000 players are/have average ShortPassing or average BallControl
+T1=0,8  T2=0,75  T3=0,78  T4=0,28  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 3000 players are/have about 80 Overall or low Dribbling
+T1=0,8  T2=0,83  T3=0,48  T4=0,47  T5=0,5  T6=0,94  T7=0,97  T8=0,91  Tavg=0,54
+
+about 7000 players are/have low Jumping or average LongPassing
+T1=0,8  T2=0,61  T3=0,72  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about half players are/have average ShortPassing or average Curve
+T1=0,8  T2=0,75  T3=0,77  T4=0,47  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,55
+
+about 5000 players are/have high SprintSpeed or about 70 Overall
+T1=0,8  T2=0,85  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 7000 players are/have low Dribbling or average Potential
+T1=0,8  T2=0,61  T3=0,79  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 3000 players are/have low Dribbling or high Jumping
+T1=0,79  T2=0,7  T3=0,48  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,85  Tavg=0,52
+
+about 4000 players are/have high Dribbling or average Curve
+T1=0,79  T2=0,81  T3=0,42  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about half players are/have low Finishing or average ShortPassing
+T1=0,79  T2=0,75  T3=0,78  T4=0,48  T5=0,5  T6=0,9  T7=0,95  T8=0,86  Tavg=0,55
+
+about 6000 players are/have about 80 Overall or average HeadingAccuracy
+T1=0,78  T2=0,89  T3=0,59  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,56
+
+about 5000 players are/have low LongShots or high Agility
+T1=0,78  T2=0,7  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,55
+
+about 7000 players are/have about 70 Overall or average Curve
+T1=0,78  T2=0,8  T3=0,6  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 9000 players are/have about 70 Overall or average Agility
+T1=0,78  T2=0,8  T3=0,77  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 8000 players are/have about 80 Overall or average ShortPassing
+T1=0,78  T2=0,89  T3=0,74  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,58
+
+about 9000 players are/have about 70 Overall or average HeadingAccuracy
+T1=0,78  T2=0,8  T3=0,72  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 5000 players are/have high Acceleration or about 70 Overall
+T1=0,78  T2=0,85  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 9000 players are/have low Finishing or average BallControl
+T1=0,78  T2=0,75  T3=0,75  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,54
+
+about 5000 players are/have low Dribbling or low LongShots
+T1=0,78  T2=0,4  T3=0,71  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,48
+
+about 8000 players are/have low Agility or average BallControl
+T1=0,78  T2=0,61  T3=0,87  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 8000 players are/have low Agility or average Dribbling
+T1=0,78  T2=0,61  T3=0,86  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 3000 players are/have high Overall or average FKAccuracy
+T1=0,77  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,88  Tavg=0,5
+
+about 8000 players are/have low LongShots or average Curve
+T1=0,77  T2=0,61  T3=0,9  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,55
+
+about 6000 players are/have low ShortPassing or average Potential
+T1=0,77  T2=0,61  T3=0,77  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 1000 players are/have high SprintSpeed or high Acceleration
+T1=0,77  T2=0,85  T3=0,06  T4=0,06  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,45
+
+about half players are/have average ShortPassing or average LongPassing
+T1=0,77  T2=0,75  T3=0,77  T4=0,34  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,53
+
+about 6000 players are/have low Dribbling or average FKAccuracy
+T1=0,77  T2=0,61  T3=0,72  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 8000 players are/have average HeadingAccuracy or average Curve
+T1=0,77  T2=0,75  T3=0,73  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 6000 players are/have high Agility or average Potential
+T1=0,77  T2=0,81  T3=0,73  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,57
+
+about 11000 players are/have average ShortPassing or average Reactions
+T1=0,77  T2=0,75  T3=0,9  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 7000 players are/have average Finishing or average HeadingAccuracy
+T1=0,77  T2=0,78  T3=0,66  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,54
+
+about 9000 players are/have average LongPassing or average Agility
+T1=0,77  T2=0,75  T3=0,8  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 4000 players are/have high Jumping or average Curve
+T1=0,77  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 7000 players are/have high Agility or average Dribbling
+T1=0,77  T2=0,81  T3=0,66  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 9000 players are/have high Agility or average Reactions
+T1=0,76  T2=0,81  T3=0,83  T4=0,8  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,59
+
+about 8000 players are/have low Finishing or low LongShots
+T1=0,76  T2=0,61  T3=0,84  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,54
+
+about half players are/have average Dribbling or average Agility
+T1=0,76  T2=0,75  T3=0,78  T4=0,4  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 3000 players are/have high Dribbling or average FKAccuracy
+T1=0,76  T2=0,81  T3=0,3  T4=0,3  T5=0,5  T6=0,94  T7=0,97  T8=0,88  Tavg=0,5
+
+about 6000 players are/have high Agility or average Agility
+T1=0,76  T2=0,81  T3=0,62  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 6000 players are/have low Finishing or average FKAccuracy
+T1=0,76  T2=0,75  T3=0,55  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,52
+
+about 5000 players are/have low Agility or low LongShots
+T1=0,76  T2=0,4  T3=0,72  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,49
+
+about 4000 players are/have high Agility or average Curve
+T1=0,76  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 7000 players are/have average Finishing or average Agility
+T1=0,75  T2=0,78  T3=0,7  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,55
+
+about 8000 players are/have average HeadingAccuracy or average Volleys
+T1=0,75  T2=0,75  T3=0,69  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about half players are/have average Dribbling or average LongPassing
+T1=0,75  T2=0,75  T3=0,77  T4=0,39  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 9000 players are/have high Dribbling or average Reactions
+T1=0,75  T2=0,81  T3=0,83  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 7000 players are/have average BallControl
+T1=0,74  T2=0,75  T3=0,7  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about half players are/have average Curve or average BallControl
+T1=0,74  T2=0,75  T3=0,76  T4=0,47  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 5000 players are/have average Finishing or average FKAccuracy
+T1=0,74  T2=0,78  T3=0,43  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,5
+
+about 10000 players are/have about 70 Overall or average Dribbling
+T1=0,74  T2=0,8  T3=0,8  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 8000 players are/have average Volleys or average Dribbling
+T1=0,74  T2=0,75  T3=0,71  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 5000 players are/have low ShortPassing or low LongShots
+T1=0,74  T2=0,4  T3=0,72  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,48
+
+about 9000 players are/have high Overall or average Reactions
+T1=0,73  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 7000 players are/have high LongShots or average BallControl
+T1=0,73  T2=0,81  T3=0,7  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about half players are/have average BallControl or average Agility
+T1=0,73  T2=0,75  T3=0,81  T4=0,4  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 9000 players are/have average ShortPassing or average FKAccuracy
+T1=0,73  T2=0,75  T3=0,77  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 8000 players are/have low LongShots or average Agility
+T1=0,73  T2=0,61  T3=0,86  T4=0,46  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 7000 players are/have high ShortPassing or average BallControl
+T1=0,73  T2=0,81  T3=0,7  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 5000 players are/have about 80 Overall or low Finishing
+T1=0,73  T2=0,89  T3=0,45  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,52
+
+about 9000 players are/have high Jumping or average Reactions
+T1=0,73  T2=0,81  T3=0,82  T4=0,8  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,58
+
+about 8000 players are/have high Acceleration or average ShortPassing
+T1=0,73  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 9000 players are/have low Finishing or average ShortPassing
+T1=0,73  T2=0,75  T3=0,78  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,54
+
+about 10000 players are/have low LongShots or average Dribbling
+T1=0,73  T2=0,61  T3=0,92  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 9000 players are/have low ShortPassing or average BallControl
+T1=0,73  T2=0,61  T3=0,89  T4=0,61  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 11000 players are/have average Dribbling or average Reactions
+T1=0,72  T2=0,75  T3=0,9  T4=0,38  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about half players are/have about 70 Overall or average LongPassing
+T1=0,72  T2=0,8  T3=0,71  T4=0,47  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,54
+
+about 7000 players are/have low Agility or average Agility
+T1=0,72  T2=0,61  T3=0,77  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 7000 players are/have high Finishing or average BallControl
+T1=0,72  T2=0,81  T3=0,7  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 7000 players are/have high Dribbling or average BallControl
+T1=0,72  T2=0,81  T3=0,71  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have low Dribbling or average Volleys
+T1=0,72  T2=0,61  T3=0,76  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 10000 players are/have average Finishing or average Reactions
+T1=0,72  T2=0,78  T3=0,86  T4=0,65  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,57
+
+about 6000 players are/have high Jumping or average Potential
+T1=0,71  T2=0,81  T3=0,72  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 9000 players are/have average ShortPassing or average LongPassing
+T1=0,71  T2=0,75  T3=0,77  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 9000 players are/have high Finishing or average Reactions
+T1=0,71  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,58
+
+about 9000 players are/have high Dribbling or average Reactions
+T1=0,71  T2=0,81  T3=0,83  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,58
+
+about 7000 players are/have high Dribbling or average Dribbling
+T1=0,71  T2=0,81  T3=0,65  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 1000 players are/have high Acceleration or high Jumping
+T1=0,71  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,45
+
+about 10000 players are/have about 70 Overall or average BallControl
+T1=0,71  T2=0,8  T3=0,83  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 7000 players are/have about 70 Overall or average Volleys
+T1=0,71  T2=0,8  T3=0,55  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 7000 players are/have high Jumping or average Dribbling
+T1=0,71  T2=0,81  T3=0,65  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 5000 players are/have low ShortPassing or average Volleys
+T1=0,7  T2=0,61  T3=0,68  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 9000 players are/have high ShortPassing or average Reactions
+T1=0,7  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,58
+
+about 6000 players are/have high Dribbling or average Potential
+T1=0,7  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 2000 players are/have low ShortPassing or low Agility
+T1=0,7  T2=0,4  T3=0,51  T4=0,37  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,46
+
+about 5000 players are/have low LongShots or high Jumping
+T1=0,7  T2=0,7  T3=0,7  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,54
+
+about half players are/have average HeadingAccuracy or average Agility
+T1=0,7  T2=0,75  T3=0,78  T4=0,44  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 7000 players are/have high Jumping or average BallControl
+T1=0,7  T2=0,81  T3=0,71  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 7000 players are/have high Overall or average BallControl
+T1=0,7  T2=0,81  T3=0,7  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 3000 players are/have about 80 Overall or average Finishing
+T1=0,7  T2=0,9  T3=0,28  T4=0,27  T5=0,5  T6=0,94  T7=0,97  T8=0,95  Tavg=0,5
+
+about 9000 players are/have high LongShots or average Reactions
+T1=0,7  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,58
+
+about 11000 players are/have average LongPassing or average Reactions
+T1=0,7  T2=0,75  T3=0,89  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 6000 players are/have high SprintSpeed or average HeadingAccuracy
+T1=0,7  T2=0,81  T3=0,59  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 2000 players are/have about 80 Overall or low Agility
+T1=0,7  T2=0,83  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,5
+
+about 10000 players are/have average ShortPassing or average Agility
+T1=0,7  T2=0,75  T3=0,84  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 11000 players are/have average BallControl or average Reactions
+T1=0,7  T2=0,75  T3=0,9  T4=0,32  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 8000 players are/have high SprintSpeed or average ShortPassing
+T1=0,7  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 8000 players are/have low Finishing or average LongPassing
+T1=0,69  T2=0,75  T3=0,7  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,53
+
+about half players are/have average Potential or average BallControl
+T1=0,69  T2=0,75  T3=0,88  T4=0,39  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about 9000 players are/have average Dribbling or average LongPassing
+T1=0,69  T2=0,75  T3=0,77  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 9000 players are/have average Reactions
+T1=0,69  T2=0,75  T3=0,82  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 1000 players are/have high Acceleration or high Agility
+T1=0,69  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,45
+
+about 7000 players are/have high Acceleration or average LongPassing
+T1=0,69  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 7000 players are/have high Overall or average Dribbling
+T1=0,69  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 6000 players are/have high Overall or average Potential
+T1=0,68  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 4000 players are/have average Finishing or low ShortPassing
+T1=0,68  T2=0,65  T3=0,6  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,51
+
+about 3000 players are/have high Dribbling or low Dribbling
+T1=0,68  T2=0,7  T3=0,47  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,81  Tavg=0,5
+
+about 7000 players are/have high Dribbling or average BallControl
+T1=0,68  T2=0,81  T3=0,71  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,56
+
+about 1000 players are/have high SprintSpeed or low Jumping
+T1=0,68  T2=0,7  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 10000 players are/have average Potential or average Reactions
+T1=0,68  T2=0,75  T3=0,92  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 9000 players are/have average BallControl or average Agility
+T1=0,68  T2=0,75  T3=0,81  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 5000 players are/have low Jumping or average Curve
+T1=0,68  T2=0,61  T3=0,59  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 5000 players are/have average Curve or average FKAccuracy
+T1=0,68  T2=0,75  T3=0,47  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 7000 players are/have high Dribbling or average Dribbling
+T1=0,67  T2=0,81  T3=0,65  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 9000 players are/have low Dribbling or average LongPassing
+T1=0,67  T2=0,61  T3=0,86  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about half players are/have about 70 Overall or average Agility
+T1=0,67  T2=0,8  T3=0,77  T4=0,53  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,55
+
+about 7000 players are/have high Finishing or average Dribbling
+T1=0,67  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 11000 players are/have average HeadingAccuracy or average Reactions
+T1=0,67  T2=0,75  T3=0,89  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 5000 players are/have high Dribbling or low LongShots
+T1=0,67  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 1000 players are/have high SprintSpeed or high Agility
+T1=0,67  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,45
+
+about half players are/have about 70 Overall or average HeadingAccuracy
+T1=0,67  T2=0,8  T3=0,72  T4=0,49  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,54
+
+about 7000 players are/have high SprintSpeed or average LongPassing
+T1=0,67  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 9000 players are/have average Dribbling or average BallControl
+T1=0,67  T2=0,75  T3=0,75  T4=0,3  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about half players are/have low Finishing or average BallControl
+T1=0,67  T2=0,75  T3=0,75  T4=0,45  T5=0,5  T6=0,9  T7=0,95  T8=0,86  Tavg=0,53
+
+about 4000 players are/have low Jumping or average FKAccuracy
+T1=0,67  T2=0,61  T3=0,51  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,49
+
+about 5000 players are/have average Finishing or low Dribbling
+T1=0,67  T2=0,65  T3=0,7  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,52
+
+about 1000 players are/have high SprintSpeed or high Jumping
+T1=0,67  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,44
+
+about 6000 players are/have low Finishing or low Agility
+T1=0,66  T2=0,61  T3=0,69  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,51
+
+about 6000 players are/have high Dribbling or average Potential
+T1=0,66  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have high Finishing or average Potential
+T1=0,66  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 7000 players are/have high ShortPassing or average Dribbling
+T1=0,66  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have high LongShots or average Dribbling
+T1=0,66  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 9000 players are/have low Finishing or average HeadingAccuracy
+T1=0,66  T2=0,75  T3=0,75  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,53
+
+about half players are/have high Agility or average Reactions
+T1=0,65  T2=0,81  T3=0,83  T4=0,8  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,58
+
+about 7000 players are/have average Dribbling
+T1=0,65  T2=0,75  T3=0,64  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 4000 players are/have high Agility or average Volleys
+T1=0,65  T2=0,81  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,49
+
+about 6000 players are/have high ShortPassing or average Potential
+T1=0,65  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 9000 players are/have average FKAccuracy or average BallControl
+T1=0,65  T2=0,75  T3=0,76  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 4000 players are/have high Jumping or average Volleys
+T1=0,65  T2=0,81  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,49
+
+about 2000 players are/have low ShortPassing or low Jumping
+T1=0,65  T2=0,4  T3=0,56  T4=0,44  T5=0,5  T6=0,89  T7=0,94  T8=0,7  Tavg=0,46
+
+about 6000 players are/have high LongShots or average Potential
+T1=0,65  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about 6000 players are/have high Acceleration or average HeadingAccuracy
+T1=0,65  T2=0,81  T3=0,6  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 8000 players are/have average HeadingAccuracy or average FKAccuracy
+T1=0,65  T2=0,75  T3=0,69  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 5000 players are/have high Overall or low LongShots
+T1=0,65  T2=0,7  T3=0,69  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about half players are/have average HeadingAccuracy or average LongPassing
+T1=0,65  T2=0,75  T3=0,79  T4=0,45  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,53
+
+about 8000 players are/have low LongShots or average Potential
+T1=0,64  T2=0,61  T3=0,87  T4=0,38  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 9000 players are/have average Potential or average BallControl
+T1=0,64  T2=0,75  T3=0,88  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 7000 players are/have high Agility or average BallControl
+T1=0,64  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 1000 players are/have low Agility
+T1=0,64  T2=0,4  T3=0,33  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,45
+
+about 6000 players are/have average Potential
+T1=0,64  T2=0,75  T3=0,71  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 3000 players are/have high Jumping or average FKAccuracy
+T1=0,64  T2=0,81  T3=0,32  T4=0,31  T5=0,5  T6=0,94  T7=0,97  T8=0,9  Tavg=0,49
+
+about 10000 players are/have average Potential or average ShortPassing
+T1=0,64  T2=0,75  T3=0,9  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 4000 players are/have low Agility or average FKAccuracy
+T1=0,64  T2=0,61  T3=0,6  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 2000 players are/have high SprintSpeed or low ShortPassing
+T1=0,64  T2=0,7  T3=0,44  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,48
+
+about 10000 players are/have low LongShots or average Reactions
+T1=0,64  T2=0,61  T3=0,94  T4=0,38  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 1000 players are/have high Acceleration or low Jumping
+T1=0,64  T2=0,7  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about half players are/have average Potential or average LongPassing
+T1=0,64  T2=0,75  T3=0,9  T4=0,47  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about half players are/have high Dribbling or average Reactions
+T1=0,64  T2=0,81  T3=0,83  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,57
+
+about 6000 players are/have high Jumping or average Agility
+T1=0,64  T2=0,81  T3=0,6  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 5000 players are/have low LongShots or high Dribbling
+T1=0,63  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,54
+
+about 5000 players are/have high Finishing or low LongShots
+T1=0,63  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 8000 players are/have low Agility or average ShortPassing
+T1=0,63  T2=0,61  T3=0,88  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,54
+
+about 1000 players are/have low Agility or high LongShots
+T1=0,63  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,47
+
+about 3000 players are/have high Overall or low Dribbling
+T1=0,63  T2=0,7  T3=0,46  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,81  Tavg=0,5
+
+about half players are/have low ShortPassing or average Reactions
+T1=0,63  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,54
+
+about 1000 players are/have low Agility or high ShortPassing
+T1=0,63  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,47
+
+about 11000 players are/have average Agility or average Reactions
+T1=0,63  T2=0,75  T3=0,91  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 7000 players are/have about 80 Overall or average LongPassing
+T1=0,63  T2=0,89  T3=0,61  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,54
+
+about 3000 players are/have high Agility or average FKAccuracy
+T1=0,63  T2=0,81  T3=0,32  T4=0,31  T5=0,5  T6=0,94  T7=0,97  T8=0,9  Tavg=0,49
+
+about 7000 players are/have low ShortPassing or average HeadingAccuracy
+T1=0,62  T2=0,61  T3=0,79  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 6000 players are/have about 70 Overall or low ShortPassing
+T1=0,62  T2=0,69  T3=0,74  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,53
+
+about 5000 players are/have low LongShots or high ShortPassing
+T1=0,62  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,53
+
+about 1000 players are/have high Acceleration or high Overall
+T1=0,62  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 5000 players are/have low LongShots or high LongShots
+T1=0,62  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,53
+
+about 6000 players are/have average LongPassing
+T1=0,62  T2=0,75  T3=0,59  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 1000 players are/have high Finishing or low Agility
+T1=0,62  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about half players are/have high Overall or average Reactions
+T1=0,62  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,57
+
+about 1000 players are/have high Dribbling or high Acceleration
+T1=0,62  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 1000 players are/have low Agility or high Dribbling
+T1=0,62  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,47
+
+about half players are/have average ShortPassing or average FKAccuracy
+T1=0,62  T2=0,75  T3=0,77  T4=0,55  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,54
+
+about half players are/have average LongPassing or average BallControl
+T1=0,62  T2=0,75  T3=0,78  T4=0,37  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,52
+
+about 9000 players are/have average Finishing or average BallControl
+T1=0,62  T2=0,78  T3=0,76  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,54
+
+about 10000 players are/have about 70 Overall or average Potential
+T1=0,62  T2=0,8  T3=0,91  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,56
+
+about half players are/have high Jumping or average Reactions
+T1=0,61  T2=0,81  T3=0,82  T4=0,8  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,57
+
+about 6000 players are/have high Dribbling or average Agility
+T1=0,61  T2=0,81  T3=0,59  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 6000 players are/have high LongShots or average LongPassing
+T1=0,61  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 5000 players are/have low LongShots
+T1=0,61  T2=0,4  T3=0,68  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,48
+
+about half players are/have low ShortPassing or average BallControl
+T1=0,61  T2=0,61  T3=0,89  T4=0,61  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,54
+
+about 8000 players are/have low Jumping or average BallControl
+T1=0,61  T2=0,61  T3=0,8  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 6000 players are/have high ShortPassing or average LongPassing
+T1=0,61  T2=0,81  T3=0,6  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 4000 players are/have high Dribbling or average Volleys
+T1=0,61  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,48
+
+about 6000 players are/have high Finishing or average LongPassing
+T1=0,61  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 6000 players are/have high Dribbling or average LongPassing
+T1=0,61  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 9000 players are/have average Finishing or average ShortPassing
+T1=0,61  T2=0,78  T3=0,77  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,54
+
+about 3000 players are/have low Dribbling or high Dribbling
+T1=0,61  T2=0,7  T3=0,47  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,85  Tavg=0,5
+
+about 8000 players are/have high Acceleration or average BallControl
+T1=0,61  T2=0,81  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,55
+
+about 1000 players are/have high Finishing or high Acceleration
+T1=0,6  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 3000 players are/have high Finishing or low Dribbling
+T1=0,6  T2=0,7  T3=0,46  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,81  Tavg=0,5
+
+about 4000 players are/have high Overall or average Volleys
+T1=0,6  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,48
+
+about 1000 players are/have high Overall or low Agility
+T1=0,6  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 9000 players are/have average HeadingAccuracy or average LongPassing
+T1=0,6  T2=0,75  T3=0,79  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about half players are/have low Dribbling or average BallControl
+T1=0,6  T2=0,61  T3=0,9  T4=0,58  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,53
+
+about 1000 players are/have high Acceleration or high Dribbling
+T1=0,6  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,44
+
+about 1000 players are/have high Acceleration or high ShortPassing
+T1=0,6  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,44
+
+about half players are/have high Finishing or average Reactions
+T1=0,6  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,57
+
+about 6000 players are/have average Finishing or average Curve
+T1=0,6  T2=0,78  T3=0,51  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,5
+
+about half players are/have high Dribbling or average Reactions
+T1=0,6  T2=0,81  T3=0,83  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,57
+
+about 1000 players are/have high Acceleration or high LongShots
+T1=0,59  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,43
+
+about 2000 players are/have high Acceleration or low ShortPassing
+T1=0,59  T2=0,7  T3=0,44  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,48
+
+about 9000 players are/have average Potential or average LongPassing
+T1=0,59  T2=0,75  T3=0,9  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 9000 players are/have average Potential or average Agility
+T1=0,59  T2=0,75  T3=0,87  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 1000 players are/have high Acceleration
+T1=0,59  T2=0,85  T3=0,05  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 4000 players are/have high Finishing or average Volleys
+T1=0,59  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,48
+
+about 9000 players are/have low ShortPassing or average Reactions
+T1=0,59  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 6000 players are/have high Overall or average LongPassing
+T1=0,59  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 6000 players are/have high Overall or average Agility
+T1=0,59  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about half players are/have high ShortPassing or average Reactions
+T1=0,58  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,57
+
+about 1000 players are/have high SprintSpeed or high Dribbling
+T1=0,58  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 3000 players are/have low Dribbling or high ShortPassing
+T1=0,58  T2=0,7  T3=0,46  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,85  Tavg=0,5
+
+about half players are/have high LongShots or average Reactions
+T1=0,58  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,57
+
+about 1000 players are/have high Dribbling or low Agility
+T1=0,58  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,46
+
+about 4000 players are/have high Dribbling or average Volleys
+T1=0,58  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,48
+
+about 6000 players are/have high Dribbling or average LongPassing
+T1=0,58  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 8000 players are/have about 70 Overall or low LongShots
+T1=0,58  T2=0,69  T3=0,9  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,54
+
+about 5000 players are/have low Agility or average Curve
+T1=0,58  T2=0,61  T3=0,7  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 1000 players are/have high SprintSpeed or high Overall
+T1=0,58  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 8000 players are/have about 80 Overall or average BallControl
+T1=0,58  T2=0,89  T3=0,73  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,56
+
+about 6000 players are/have high Dribbling or average Agility
+T1=0,58  T2=0,81  T3=0,59  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 4000 players are/have about 80 Overall or average Curve
+T1=0,58  T2=0,89  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,51
+
+about 3000 players are/have low Dribbling or high LongShots
+T1=0,58  T2=0,7  T3=0,46  T4=0,46  T5=0,5  T6=0,94  T7=0,97  T8=0,85  Tavg=0,5
+
+about 5000 players are/have average Finishing or average Volleys
+T1=0,58  T2=0,78  T3=0,4  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,48
+
+about 7000 players are/have low Agility or average LongPassing
+T1=0,57  T2=0,61  T3=0,81  T4=0,61  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 4000 players are/have high ShortPassing or average Volleys
+T1=0,57  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,48
+
+about 6000 players are/have high Finishing or average Agility
+T1=0,57  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 5000 players are/have low Finishing or high Agility
+T1=0,57  T2=0,81  T3=0,44  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,5
+
+about 4000 players are/have high LongShots or average Volleys
+T1=0,57  T2=0,81  T3=0,35  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,48
+
+about 9000 players are/have average LongPassing or average BallControl
+T1=0,57  T2=0,75  T3=0,78  T4=0,37  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about half players are/have average Reactions
+T1=0,57  T2=0,75  T3=0,82  T4=0  T5=1  T6=0,9  T7=0,95  T8=0,88  Tavg=0,53
+
+about 7000 players are/have low LongShots or average FKAccuracy
+T1=0,57  T2=0,61  T3=0,88  T4=0,67  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 6000 players are/have high Jumping or average LongPassing
+T1=0,57  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 4000 players are/have average Volleys
+T1=0,57  T2=0,75  T3=0,35  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 2000 players are/have low Agility or high Agility
+T1=0,56  T2=0,7  T3=0,38  T4=0,36  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,47
+
+about 6000 players are/have high ShortPassing or average Agility
+T1=0,56  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 3000 players are/have low Dribbling
+T1=0,56  T2=0,4  T3=0,46  T4=0  T5=1  T6=0,94  T7=0,97  T8=0,7  Tavg=0,46
+
+about 6000 players are/have high LongShots or average Agility
+T1=0,56  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 1000 players are/have high Finishing or high SprintSpeed
+T1=0,56  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,43
+
+about 9000 players are/have low Dribbling or average BallControl
+T1=0,56  T2=0,61  T3=0,9  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,53
+
+about 1000 players are/have high SprintSpeed or high Dribbling
+T1=0,56  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,43
+
+about 8000 players are/have high SprintSpeed or average BallControl
+T1=0,55  T2=0,81  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 6000 players are/have average Agility
+T1=0,55  T2=0,75  T3=0,58  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have low Jumping or average HeadingAccuracy
+T1=0,55  T2=0,61  T3=0,76  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 3000 players are/have average Finishing or low Jumping
+T1=0,55  T2=0,65  T3=0,49  T4=0,41  T5=0,5  T6=0,94  T7=0,97  T8=0,83  Tavg=0,49
+
+about half players are/have low Dribbling or average LongPassing
+T1=0,55  T2=0,61  T3=0,86  T4=0,59  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,53
+
+about 4000 players are/have low Finishing
+T1=0,55  T2=0,75  T3=0,42  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,49
+
+about 1000 players are/have high SprintSpeed or high ShortPassing
+T1=0,55  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,43
+
+about 6000 players are/have high Agility or average LongPassing
+T1=0,55  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 1000 players are/have about 80 Overall or high Agility
+T1=0,55  T2=0,91  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,44
+
+about half players are/have average Dribbling or average BallControl
+T1=0,55  T2=0,75  T3=0,75  T4=0,3  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,51
+
+about 1000 players are/have high SprintSpeed or high LongShots
+T1=0,55  T2=0,85  T3=0,05  T4=0,05  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,43
+
+about 4000 players are/have low Finishing or high LongShots
+T1=0,54  T2=0,81  T3=0,42  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 4000 players are/have low Finishing or high ShortPassing
+T1=0,54  T2=0,81  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 10000 players are/have average HeadingAccuracy or average Dribbling
+T1=0,54  T2=0,75  T3=0,82  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 1000 players are/have high SprintSpeed
+T1=0,54  T2=0,85  T3=0,04  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 5000 players are/have low Finishing or high Jumping
+T1=0,54  T2=0,81  T3=0,44  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 5000 players are/have about 70 Overall or low Jumping
+T1=0,54  T2=0,69  T3=0,61  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,5
+
+about 4000 players are/have high SprintSpeed or average Curve
+T1=0,54  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 10000 players are/have low Finishing or average Reactions
+T1=0,53  T2=0,75  T3=0,89  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,54
+
+about 8000 players are/have average Potential or average FKAccuracy
+T1=0,53  T2=0,75  T3=0,82  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 8000 players are/have high Agility or average ShortPassing
+T1=0,53  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have average ShortPassing
+T1=0,53  T2=0,75  T3=0,71  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 7000 players are/have average Finishing or average Potential
+T1=0,53  T2=0,78  T3=0,82  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,54
+
+about half players are/have low Finishing or average HeadingAccuracy
+T1=0,53  T2=0,75  T3=0,75  T4=0,51  T5=0,5  T6=0,9  T7=0,95  T8=0,86  Tavg=0,52
+
+about 4000 players are/have low Finishing or high Dribbling
+T1=0,53  T2=0,81  T3=0,43  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 4000 players are/have high Finishing or low Finishing
+T1=0,53  T2=0,81  T3=0,42  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about half players are/have average ShortPassing or average Dribbling
+T1=0,53  T2=0,75  T3=0,79  T4=0,33  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,51
+
+about half players are/have low LongShots or average LongPassing
+T1=0,53  T2=0,61  T3=0,92  T4=0,51  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,52
+
+about half players are/have average FKAccuracy or average BallControl
+T1=0,53  T2=0,75  T3=0,76  T4=0,55  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,53
+
+about half players are/have low Dribbling or average ShortPassing
+T1=0,53  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,9  T7=0,95  T8=0,81  Tavg=0,53
+
+about 8000 players are/have high Dribbling or average ShortPassing
+T1=0,53  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 7000 players are/have high LongShots or average ShortPassing
+T1=0,53  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 7000 players are/have high ShortPassing or average ShortPassing
+T1=0,52  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,55
+
+about 4000 players are/have low Finishing or high Overall
+T1=0,51  T2=0,81  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about 7000 players are/have high Finishing or average ShortPassing
+T1=0,51  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 7000 players are/have high Dribbling or average ShortPassing
+T1=0,51  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 10000 players are/have low Dribbling or average ShortPassing
+T1=0,51  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 10000 players are/have low LongShots or average LongPassing
+T1=0,51  T2=0,61  T3=0,92  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 7000 players are/have low Dribbling or average Agility
+T1=0,51  T2=0,61  T3=0,78  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 8000 players are/have high Overall or average ShortPassing
+T1=0,51  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 8000 players are/have average FKAccuracy or average Agility
+T1=0,51  T2=0,75  T3=0,71  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 1000 players are/have low Agility or high Jumping
+T1=0,51  T2=0,7  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,46
+
+about 10000 players are/have average ShortPassing or average Dribbling
+T1=0,51  T2=0,75  T3=0,79  T4=0,33  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 4000 players are/have high Acceleration or average Curve
+T1=0,51  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 5000 players are/have low Finishing or high Dribbling
+T1=0,51  T2=0,81  T3=0,43  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about 6000 players are/have about 70 Overall or average FKAccuracy
+T1=0,5  T2=0,8  T3=0,53  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,5
+
+about 7000 players are/have high Jumping or average ShortPassing
+T1=0,5  T2=0,81  T3=0,72  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have average FKAccuracy or average LongPassing
+T1=0,5  T2=0,75  T3=0,65  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have average FKAccuracy or average LongPassing
+T1=0,5  T2=0,75  T3=0,65  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have high Jumping or average ShortPassing
+T1=0,5  T2=0,81  T3=0,72  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have about 70 Overall or average FKAccuracy
+T1=0,5  T2=0,8  T3=0,53  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,5
+
+about 4000 players are/have low Finishing or high Dribbling
+T1=0,49  T2=0,81  T3=0,43  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about 5000 players are/have high Acceleration or average Curve
+T1=0,49  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 9000 players are/have average ShortPassing or average Dribbling
+T1=0,49  T2=0,75  T3=0,79  T4=0,33  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 2000 players are/have low Agility or high Jumping
+T1=0,49  T2=0,7  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,46
+
+about 7000 players are/have average FKAccuracy or average Agility
+T1=0,49  T2=0,75  T3=0,71  T4=0,53  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 1000 players are/have about 80 Overall or high Jumping
+T1=0,49  T2=0,91  T3=0,06  T4=0,06  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,44
+
+about 7000 players are/have high Overall or average ShortPassing
+T1=0,49  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 8000 players are/have low Dribbling or average Agility
+T1=0,49  T2=0,61  T3=0,78  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 9000 players are/have low LongShots or average LongPassing
+T1=0,49  T2=0,61  T3=0,92  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 9000 players are/have low Dribbling or average ShortPassing
+T1=0,49  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about half players are/have average Finishing or average BallControl
+T1=0,49  T2=0,78  T3=0,76  T4=0,58  T5=0,5  T6=0,9  T7=0,95  T8=0,89  Tavg=0,53
+
+about 4000 players are/have high Acceleration or average FKAccuracy
+T1=0,49  T2=0,81  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about half players are/have average HeadingAccuracy or average Dribbling
+T1=0,49  T2=0,75  T3=0,82  T4=0,45  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,52
+
+about 8000 players are/have high Dribbling or average ShortPassing
+T1=0,49  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 8000 players are/have high Finishing or average ShortPassing
+T1=0,49  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 5000 players are/have low Finishing or high Overall
+T1=0,49  T2=0,81  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about half players are/have average Finishing or average ShortPassing
+T1=0,48  T2=0,78  T3=0,77  T4=0,58  T5=0,5  T6=0,9  T7=0,95  T8=0,89  Tavg=0,53
+
+about 8000 players are/have high ShortPassing or average ShortPassing
+T1=0,48  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 8000 players are/have high LongShots or average ShortPassing
+T1=0,47  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have high Dribbling or average ShortPassing
+T1=0,47  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,54
+
+about 4000 players are/have high SprintSpeed or average FKAccuracy
+T1=0,47  T2=0,81  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,47
+
+about 5000 players are/have high Finishing or low Finishing
+T1=0,47  T2=0,81  T3=0,42  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,48
+
+about 5000 players are/have low Finishing or high Dribbling
+T1=0,47  T2=0,81  T3=0,43  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 8000 players are/have average Finishing or average Potential
+T1=0,47  T2=0,78  T3=0,82  T4=0,63  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,54
+
+about 8000 players are/have average ShortPassing
+T1=0,47  T2=0,75  T3=0,71  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have high Agility or average ShortPassing
+T1=0,47  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 7000 players are/have average Potential or average FKAccuracy
+T1=0,47  T2=0,75  T3=0,82  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 11000 players are/have low Finishing or average Reactions
+T1=0,47  T2=0,75  T3=0,89  T4=0,54  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,53
+
+about 3000 players are/have low Dribbling or low Jumping
+T1=0,46  T2=0,4  T3=0,61  T4=0,48  T5=0,5  T6=0,94  T7=0,97  T8=0,7  Tavg=0,46
+
+about 5000 players are/have high SprintSpeed or average Curve
+T1=0,46  T2=0,81  T3=0,43  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,48
+
+about 6000 players are/have about 70 Overall or low Jumping
+T1=0,46  T2=0,69  T3=0,61  T4=0,49  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,49
+
+about half players are/have average Potential or average Agility
+T1=0,46  T2=0,75  T3=0,87  T4=0,45  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,52
+
+about 4000 players are/have low Finishing or high Jumping
+T1=0,46  T2=0,81  T3=0,44  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 9000 players are/have average HeadingAccuracy or average Dribbling
+T1=0,46  T2=0,75  T3=0,82  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 5000 players are/have low Finishing or high ShortPassing
+T1=0,46  T2=0,81  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 5000 players are/have low Finishing or high LongShots
+T1=0,46  T2=0,81  T3=0,42  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,49
+
+about 7000 players are/have high Agility or average LongPassing
+T1=0,45  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 5000 players are/have low Finishing
+T1=0,45  T2=0,75  T3=0,42  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,85  Tavg=0,48
+
+about 6000 players are/have low Jumping or average HeadingAccuracy
+T1=0,45  T2=0,61  T3=0,76  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 5000 players are/have average Agility
+T1=0,45  T2=0,75  T3=0,58  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 7000 players are/have high SprintSpeed or average BallControl
+T1=0,45  T2=0,81  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 10000 players are/have low Dribbling or average BallControl
+T1=0,44  T2=0,61  T3=0,9  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 5000 players are/have high LongShots or average Agility
+T1=0,44  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 5000 players are/have high ShortPassing or average Agility
+T1=0,44  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 1000 players are/have low Agility or high Agility
+T1=0,44  T2=0,7  T3=0,38  T4=0,36  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,46
+
+about 7000 players are/have high Jumping or average LongPassing
+T1=0,43  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 8000 players are/have low LongShots or average FKAccuracy
+T1=0,43  T2=0,61  T3=0,88  T4=0,67  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,52
+
+about 10000 players are/have average LongPassing or average BallControl
+T1=0,43  T2=0,75  T3=0,78  T4=0,37  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 4000 players are/have low Finishing or high Agility
+T1=0,43  T2=0,81  T3=0,44  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,48
+
+about 5000 players are/have high Finishing or average Agility
+T1=0,43  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have low Agility or average LongPassing
+T1=0,43  T2=0,61  T3=0,81  T4=0,61  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 4000 players are/have average Finishing or average Volleys
+T1=0,42  T2=0,78  T3=0,4  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,47
+
+about 5000 players are/have about 80 Overall or average Curve
+T1=0,42  T2=0,89  T3=0,43  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,49
+
+about 5000 players are/have high Dribbling or average Agility
+T1=0,42  T2=0,81  T3=0,59  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 7000 players are/have about 80 Overall or average BallControl
+T1=0,42  T2=0,89  T3=0,73  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,55
+
+about 6000 players are/have low Agility or average Curve
+T1=0,42  T2=0,61  T3=0,7  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,49
+
+about 9000 players are/have about 70 Overall or low LongShots
+T1=0,42  T2=0,69  T3=0,9  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,53
+
+about 7000 players are/have high Dribbling or average LongPassing
+T1=0,42  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 2000 players are/have high Dribbling or low Agility
+T1=0,42  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,45
+
+about 5000 players are/have high Overall or average Agility
+T1=0,41  T2=0,81  T3=0,58  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have high Overall or average LongPassing
+T1=0,41  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 10000 players are/have low ShortPassing or average Reactions
+T1=0,41  T2=0,61  T3=0,91  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 8000 players are/have average Potential or average Agility
+T1=0,41  T2=0,75  T3=0,87  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about half players are/have about 70 Overall or average Potential
+T1=0,41  T2=0,8  T3=0,91  T4=0,62  T5=0,5  T6=0,9  T7=0,95  T8=0,9  Tavg=0,54
+
+about 10000 players are/have average Potential or average LongPassing
+T1=0,41  T2=0,75  T3=0,9  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 1000 players are/have about 80 Overall or high Dribbling
+T1=0,41  T2=0,91  T3=0,04  T4=0,04  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,42
+
+about 2000 players are/have average Finishing
+T1=0,41  T2=0,8  T3=0,26  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,9  Tavg=0,47
+
+about 5000 players are/have average Finishing or average Curve
+T1=0,4  T2=0,78  T3=0,51  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,48
+
+about 1000 players are/have about 80 Overall or high Overall
+T1=0,4  T2=0,91  T3=0,04  T4=0,04  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,42
+
+about 2000 players are/have average Finishing or high ShortPassing
+T1=0,4  T2=0,83  T3=0,27  T4=0,26  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,46
+
+about 10000 players are/have average HeadingAccuracy or average LongPassing
+T1=0,4  T2=0,75  T3=0,79  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 2000 players are/have high Overall or low Agility
+T1=0,4  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,45
+
+about 2000 players are/have average Finishing or high LongShots
+T1=0,4  T2=0,83  T3=0,27  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,46
+
+about 2000 players are/have average Finishing or high Dribbling
+T1=0,4  T2=0,83  T3=0,27  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,45
+
+about 7000 players are/have high Acceleration or average BallControl
+T1=0,39  T2=0,81  T3=0,71  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 8000 players are/have average Finishing or average ShortPassing
+T1=0,39  T2=0,78  T3=0,77  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,52
+
+about 7000 players are/have high Dribbling or average LongPassing
+T1=0,39  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 7000 players are/have high Finishing or average LongPassing
+T1=0,39  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have high ShortPassing or average LongPassing
+T1=0,39  T2=0,81  T3=0,6  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 7000 players are/have low Jumping or average BallControl
+T1=0,39  T2=0,61  T3=0,8  T4=0,6  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 3000 players are/have average Finishing or high Jumping
+T1=0,39  T2=0,83  T3=0,28  T4=0,28  T5=0,5  T6=0,94  T7=0,97  T8=0,91  Tavg=0,46
+
+about 4000 players are/have low LongShots
+T1=0,39  T2=0,4  T3=0,68  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,46
+
+about 7000 players are/have high LongShots or average LongPassing
+T1=0,39  T2=0,81  T3=0,6  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 5000 players are/have high Dribbling or average Agility
+T1=0,39  T2=0,81  T3=0,59  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 9000 players are/have about 70 Overall or average Potential
+T1=0,38  T2=0,8  T3=0,91  T4=0,62  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about 8000 players are/have average Finishing or average BallControl
+T1=0,38  T2=0,78  T3=0,76  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,52
+
+about 2000 players are/have high Finishing or average Finishing
+T1=0,38  T2=0,83  T3=0,27  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,45
+
+about half players are/have average Potential or average ShortPassing
+T1=0,38  T2=0,75  T3=0,9  T4=0,39  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,51
+
+about 2000 players are/have low Agility or high Dribbling
+T1=0,38  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,45
+
+about 1000 players are/have about 80 Overall or high Finishing
+T1=0,38  T2=0,91  T3=0,03  T4=0,03  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,42
+
+about 2000 players are/have high Finishing or low Agility
+T1=0,38  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,44
+
+about 7000 players are/have average LongPassing
+T1=0,38  T2=0,75  T3=0,59  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 4000 players are/have low LongShots or high LongShots
+T1=0,38  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,51
+
+about 1000 players are/have about 80 Overall or high Dribbling
+T1=0,38  T2=0,91  T3=0,04  T4=0,04  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,42
+
+about 4000 players are/have low LongShots or high ShortPassing
+T1=0,38  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,51
+
+about 7000 players are/have about 70 Overall or low ShortPassing
+T1=0,38  T2=0,69  T3=0,74  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,51
+
+about 8000 players are/have low ShortPassing or average HeadingAccuracy
+T1=0,38  T2=0,61  T3=0,79  T4=0,56  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 3000 players are/have average Finishing or high Agility
+T1=0,37  T2=0,83  T3=0,28  T4=0,27  T5=0,5  T6=0,94  T7=0,97  T8=0,91  Tavg=0,46
+
+about 6000 players are/have about 80 Overall or average LongPassing
+T1=0,37  T2=0,89  T3=0,61  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,52
+
+about 2000 players are/have average Finishing or high Dribbling
+T1=0,37  T2=0,83  T3=0,27  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,45
+
+about 10000 players are/have average Agility or average Reactions
+T1=0,37  T2=0,75  T3=0,91  T4=0,43  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 2000 players are/have average Finishing or high Overall
+T1=0,37  T2=0,83  T3=0,27  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,89  Tavg=0,45
+
+about 1000 players are/have about 80 Overall or high ShortPassing
+T1=0,37  T2=0,91  T3=0,03  T4=0,03  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,42
+
+about 2000 players are/have low Agility or high ShortPassing
+T1=0,37  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,45
+
+about 2000 players are/have low Agility or high LongShots
+T1=0,37  T2=0,7  T3=0,34  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,45
+
+about 9000 players are/have low Agility or average ShortPassing
+T1=0,37  T2=0,61  T3=0,88  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 4000 players are/have high Acceleration or low Dribbling
+T1=0,37  T2=0,7  T3=0,5  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 4000 players are/have high Finishing or low LongShots
+T1=0,37  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 4000 players are/have low LongShots or high Dribbling
+T1=0,37  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,85  Tavg=0,51
+
+about 1000 players are/have about 80 Overall or high LongShots
+T1=0,37  T2=0,91  T3=0,03  T4=0,03  T5=0,5  T6=0,89  T7=0,94  T8=0,96  Tavg=0,42
+
+about 5000 players are/have high Jumping or average Agility
+T1=0,36  T2=0,81  T3=0,6  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 3000 players are/have high SprintSpeed or low Dribbling
+T1=0,36  T2=0,7  T3=0,5  T4=0,48  T5=0,5  T6=0,94  T7=0,97  T8=0,81  Tavg=0,48
+
+about 2000 players are/have high Acceleration or low Jumping
+T1=0,36  T2=0,7  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,44
+
+about 11000 players are/have low LongShots or average Reactions
+T1=0,36  T2=0,61  T3=0,94  T4=0,38  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,49
+
+about 5000 players are/have low Agility or average FKAccuracy
+T1=0,36  T2=0,61  T3=0,6  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 9000 players are/have average Potential or average ShortPassing
+T1=0,36  T2=0,75  T3=0,9  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 1000 players are/have about 80 Overall
+T1=0,36  T2=0,95  T3=0,03  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,98  Tavg=0,47
+
+about 5000 players are/have average Potential
+T1=0,36  T2=0,75  T3=0,71  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 2000 players are/have low Agility
+T1=0,36  T2=0,4  T3=0,33  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,7  Tavg=0,42
+
+about 8000 players are/have high Agility or average BallControl
+T1=0,36  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 10000 players are/have average Potential or average BallControl
+T1=0,36  T2=0,75  T3=0,88  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 7000 players are/have low LongShots or average Potential
+T1=0,36  T2=0,61  T3=0,87  T4=0,38  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,49
+
+about 4000 players are/have high Overall or low LongShots
+T1=0,35  T2=0,7  T3=0,69  T4=0,68  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,51
+
+about 7000 players are/have average HeadingAccuracy or average FKAccuracy
+T1=0,35  T2=0,75  T3=0,69  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 7000 players are/have high Acceleration or average HeadingAccuracy
+T1=0,35  T2=0,81  T3=0,6  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 5000 players are/have high LongShots or average Potential
+T1=0,35  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 8000 players are/have average FKAccuracy or average BallControl
+T1=0,35  T2=0,75  T3=0,76  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 5000 players are/have high ShortPassing or average Potential
+T1=0,35  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 6000 players are/have average Dribbling
+T1=0,35  T2=0,75  T3=0,64  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 8000 players are/have low Finishing or average HeadingAccuracy
+T1=0,34  T2=0,75  T3=0,75  T4=0,51  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,5
+
+about 6000 players are/have high LongShots or average Dribbling
+T1=0,34  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 6000 players are/have high ShortPassing or average Dribbling
+T1=0,34  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,52
+
+about 5000 players are/have high Finishing or average Potential
+T1=0,34  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,53
+
+about 5000 players are/have high Dribbling or average Potential
+T1=0,34  T2=0,81  T3=0,72  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,53
+
+about 5000 players are/have low Finishing or low Agility
+T1=0,34  T2=0,61  T3=0,69  T4=0,55  T5=0,5  T6=0,89  T7=0,94  T8=0,79  Tavg=0,48
+
+about 6000 players are/have average Finishing or low Dribbling
+T1=0,33  T2=0,65  T3=0,7  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,49
+
+about 3000 players are/have about 80 Overall or average FKAccuracy
+T1=0,33  T2=0,89  T3=0,32  T4=0,31  T5=0,5  T6=0,94  T7=0,97  T8=0,94  Tavg=0,47
+
+about 4000 players are/have about 80 Overall or average FKAccuracy
+T1=0,33  T2=0,89  T3=0,32  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,94  Tavg=0,47
+
+about 1000 players are/have high Agility or high Jumping
+T1=0,33  T2=0,85  T3=0,07  T4=0,07  T5=0,5  T6=0,89  T7=0,94  T8=0,93  Tavg=0,42
+
+about 8000 players are/have average Dribbling or average BallControl
+T1=0,33  T2=0,75  T3=0,75  T4=0,3  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,48
+
+about 6000 players are/have high SprintSpeed or average LongPassing
+T1=0,33  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 4000 players are/have high Dribbling or low LongShots
+T1=0,33  T2=0,7  T3=0,69  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 10000 players are/have average HeadingAccuracy or average Reactions
+T1=0,33  T2=0,75  T3=0,89  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 6000 players are/have high Finishing or average Dribbling
+T1=0,33  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have low Dribbling or average LongPassing
+T1=0,33  T2=0,61  T3=0,86  T4=0,59  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,5
+
+about 6000 players are/have high Dribbling or average Dribbling
+T1=0,33  T2=0,81  T3=0,65  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,51
+
+about 6000 players are/have average Curve or average FKAccuracy
+T1=0,32  T2=0,75  T3=0,47  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,46
+
+about 4000 players are/have low Jumping or average Curve
+T1=0,32  T2=0,61  T3=0,59  T4=0,47  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 10000 players are/have average BallControl or average Agility
+T1=0,32  T2=0,75  T3=0,81  T4=0,4  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 11000 players are/have average Potential or average Reactions
+T1=0,32  T2=0,75  T3=0,92  T4=0,34  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 2000 players are/have high SprintSpeed or low Jumping
+T1=0,32  T2=0,7  T3=0,33  T4=0,31  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,44
+
+about half players are/have average ShortPassing or average Agility
+T1=0,32  T2=0,75  T3=0,84  T4=0,42  T5=0,5  T6=0,9  T7=0,95  T8=0,88  Tavg=0,5
+
+about 8000 players are/have high Dribbling or average BallControl
+T1=0,32  T2=0,81  T3=0,71  T4=0,7  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 5000 players are/have average Finishing or low ShortPassing
+T1=0,32  T2=0,65  T3=0,6  T4=0,5  T5=0,5  T6=0,89  T7=0,94  T8=0,83  Tavg=0,48
+
+about 4000 players are/have high SprintSpeed or low Dribbling
+T1=0,32  T2=0,7  T3=0,5  T4=0,48  T5=0,5  T6=0,89  T7=0,94  T8=0,81  Tavg=0,47
+
+about 5000 players are/have high Overall or average Potential
+T1=0,32  T2=0,81  T3=0,71  T4=0,71  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 2000 players are/have average Finishing or high Agility
+T1=0,31  T2=0,83  T3=0,28  T4=0,27  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,45
+
+about 6000 players are/have high Overall or average Dribbling
+T1=0,31  T2=0,81  T3=0,64  T4=0,64  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 6000 players are/have high Acceleration or average LongPassing
+T1=0,31  T2=0,81  T3=0,61  T4=0,58  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 8000 players are/have average Reactions
+T1=0,31  T2=0,75  T3=0,82  T4=0  T5=1  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 10000 players are/have average Dribbling or average LongPassing
+T1=0,31  T2=0,75  T3=0,77  T4=0,39  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,49
+
+about 9000 players are/have low Finishing or average LongPassing
+T1=0,31  T2=0,75  T3=0,7  T4=0,45  T5=0,5  T6=0,89  T7=0,94  T8=0,86  Tavg=0,49
+
+about 2000 players are/have average Finishing or high Jumping
+T1=0,31  T2=0,83  T3=0,28  T4=0,28  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,45
+
+about 7000 players are/have high SprintSpeed or average ShortPassing
+T1=0,3  T2=0,81  T3=0,72  T4=0,69  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,52
+
+about 10000 players are/have average BallControl or average Reactions
+T1=0,3  T2=0,75  T3=0,9  T4=0,32  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 9000 players are/have average ShortPassing or average Agility
+T1=0,3  T2=0,75  T3=0,84  T4=0,42  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 1000 players are/have about 80 Overall or low Agility
+T1=0,3  T2=0,83  T3=0,36  T4=0,35  T5=0,5  T6=0,89  T7=0,94  T8=0,91  Tavg=0,46
+
+about 7000 players are/have high SprintSpeed or average HeadingAccuracy
+T1=0,3  T2=0,81  T3=0,59  T4=0,57  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,5
+
+about 10000 players are/have average LongPassing or average Reactions
+T1=0,3  T2=0,75  T3=0,89  T4=0,41  T5=0,5  T6=0,89  T7=0,94  T8=0,88  Tavg=0,51
+
+about 8000 players are/have high LongShots or average Reactions
+T1=0,3  T2=0,81  T3=0,82  T4=0,82  T5=0,5  T6=0,89  T7=0,94  T8=0,9  Tavg=0,54
+
+about half players are/have average Finishing or average Reactions
+T1=0,3  T2=0,78  T3=0,86  T4=0,65  T5=0,5  T6=0,9  T7=0,95  T8=0,89  Tavg=0,53
+

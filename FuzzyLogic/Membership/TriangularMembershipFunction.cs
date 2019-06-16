@@ -11,6 +11,7 @@ namespace FuzzyLogic.Membership
             _a = a;
             _b = b;
             _c = c;
+            Name = $"triangular({_a.ToString(CultureInfo.InvariantCulture)}, {_b.ToString(CultureInfo.InvariantCulture)}, {_c.ToString(CultureInfo.InvariantCulture)})";
         }
 
         public TriangularMembershipFunction(string a, string b, string c)
@@ -18,6 +19,7 @@ namespace FuzzyLogic.Membership
             _a = Double.Parse(a, CultureInfo.InvariantCulture);
             _b = Double.Parse(b, CultureInfo.InvariantCulture);
             _c = Double.Parse(c, CultureInfo.InvariantCulture);
+            Name = $"triangular({a}, {b}, {c})";
         }
 
         private readonly double _a;
@@ -47,5 +49,7 @@ namespace FuzzyLogic.Membership
 
         public double Cardinality => Math.Abs(_c - _a) / 2d;
         public double Support => Math.Abs(_c - _a);
+
+        public string Name { get; }
     }
 }

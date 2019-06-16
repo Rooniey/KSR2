@@ -6,5 +6,7 @@ namespace FuzzyLogic.Interfaces
         double GetMembershipDegree(double columnValue);
         double Cardinality { get; }
         double Support { get; }
+
+        string Name { get; }
     }
 }
